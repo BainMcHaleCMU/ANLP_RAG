@@ -8,15 +8,13 @@ import time
 def clean_text(text):
     if not text:
         return ""
-    # Remove tabs, newlines, and reduce multiple spaces to a single space
-    return re.sub(r'\s+', ' ', text).strip()
+    return re.sub(r'\s+', ' ', text).strip()  # Remove tabs, newlines, and multiple spaces
 
-# Function to scrape a specific event's detailed page (following "READ MORE")
+# Function to scrape a specific event's detailed page (following "READ MORE" links if needed)
 def scrape_event_details(event_url):
     response = requests.get(event_url)
     soup = BeautifulSoup(response.content, 'html.parser')
     
-    # Extract the event's venue, location, and other details (assuming from the detailed page structure)
     event_details = {}
     
     # Event title
@@ -25,7 +23,7 @@ def scrape_event_details(event_url):
     # Event date/time
     event_details['date_time'] = clean_text(soup.find('div', class_='eventdate').text if soup.find('div', class_='eventdate') else "No date")
     
-    # Event location
+    # Event location and venue
     venue_section = soup.find('div', class_='eventlocation')
     if venue_section:
         event_details['venue'] = clean_text(venue_section.find('strong').text if venue_section.find('strong') else "No venue")
@@ -34,12 +32,19 @@ def scrape_event_details(event_url):
         event_details['venue'] = "No venue"
         event_details['location'] = "No location"
     
-    # Event external website (if exists)
+    # Event external website
     event_website = soup.find('div', class_='eventlink')
     if event_website and event_website.find('a'):
         event_details['website'] = event_website.find('a')['href']
     else:
         event_details['website'] = "No website"
+    
+    # Extract event description (below venue or as additional content)
+    description_paragraphs = soup.find_all('p')
+    if description_paragraphs:
+        event_details['description'] = clean_text(" ".join([p.text for p in description_paragraphs]))
+    else:
+        event_details['description'] = "No description"
     
     return event_details
 
@@ -51,24 +56,18 @@ def scrape_main_page(url):
     events = []
     
     # Find all event items on the page
-    i = 1
     for event_div in soup.find_all('div', class_='eventitem'):
-        print(f"Parsing Event {i}")
-        i+=1
-        
         event = {}
         
-        # Extract title
-        event['title'] = clean_text(event_div.find('h1').text if event_div.find('h1') else "No title")
-        
-        # Extract date
-        event['date'] = clean_text(event_div.find('div', class_='eventdate').text if event_div.find('div', class_='eventdate') else "No date")
-        
-        # Extract description - using .text to gather content within the div
+        # Extract title from the event's specific <h1> tag inside each event block
+        event_title_tag = event_div.find('h1')
+        event['title'] = clean_text(event_title_tag.text if event_title_tag else "No title")
+                
+        # Extract description from within the event block (removing other non-related content)
         description_div = event_div.find('div', class_='copyContent')
         if description_div:
-            description_text = description_div.get_text(separator=" ").strip()
-            event['description'] = clean_text(description_text)
+            description_text = clean_text(description_div.get_text(separator=" ").strip())
+            event['description'] = description_text.split(" READ MORE")[0]  # Stop at the "READ MORE" link text
         else:
             event['description'] = "No description"
         
