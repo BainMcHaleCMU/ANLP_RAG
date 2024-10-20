@@ -1,0 +1,202 @@
+[
+  {
+    "week": "WEEK 1",
+    "date": "WEEK 1",
+    "time": "Sun 09/08",
+    "opponent": "Atlanta Falcons",
+    "result": "W",
+    "score": "18 - 10",
+    "venue": "Mercedes-Benz Stadium",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 2",
+    "date": "WEEK 2",
+    "time": "Sun 09/15",
+    "opponent": "Denver Broncos",
+    "result": "W",
+    "score": "13 - 6",
+    "venue": "Empower Field at Mile High",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 3",
+    "date": "WEEK 3",
+    "time": "Sun 09/22",
+    "opponent": "Los Angeles Chargers",
+    "result": "W",
+    "score": "20 - 10",
+    "venue": "Acrisure Stadium",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 4",
+    "date": "WEEK 4",
+    "time": "Sun 09/29",
+    "opponent": "Indianapolis Colts",
+    "result": "L",
+    "score": "24 - 27",
+    "venue": "Lucas Oil Stadium",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 5",
+    "date": "WEEK 5",
+    "time": "Sun 10/06",
+    "opponent": "Dallas Cowboys",
+    "result": "L",
+    "score": "17 - 20",
+    "venue": "Acrisure Stadium",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 6",
+    "date": "WEEK 6",
+    "time": "Sun 10/13",
+    "opponent": "Las Vegas Raiders",
+    "result": "W",
+    "score": "32 - 13",
+    "venue": "Allegiant Stadium",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 7",
+    "date": "Sun 10/20",
+    "time": "8:20 PM EDT",
+    "opponent": "New York Jets",
+    "result": "TBD",
+    "score": "TBD",
+    "venue": "Acrisure Stadium",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 8",
+    "date": "Mon 10/28",
+    "time": "8:15 PM EDT",
+    "opponent": "New York Giants",
+    "result": "TBD",
+    "score": "TBD",
+    "venue": "Acrisure Stadium",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 10",
+    "date": "Sun 11/10",
+    "time": "1:00 PM EST",
+    "opponent": "Washington Commanders",
+    "result": "TBD",
+    "score": "TBD",
+    "venue": "Northwest Stadium",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 11",
+    "date": "Sun 11/17",
+    "time": "1:00 PM EST",
+    "opponent": "Baltimore Ravens",
+    "result": "TBD",
+    "score": "TBD",
+    "venue": "Acrisure Stadium",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 12",
+    "date": "Thu 11/21",
+    "time": "8:15 PM EST",
+    "opponent": "Cleveland Browns",
+    "result": "TBD",
+    "score": "TBD",
+    "venue": "Huntington Bank Field",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 13",
+    "date": "Sun 12/01",
+    "time": "1:00 PM EST",
+    "opponent": "Cincinnati Bengals",
+    "result": "TBD",
+    "score": "TBD",
+    "venue": "Paycor Stadium",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 14",
+    "date": "Sun 12/08",
+    "time": "1:00 PM EST",
+    "opponent": "Cleveland Browns",
+    "result": "TBD",
+    "score": "TBD",
+    "venue": "Acrisure Stadium",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 15",
+    "date": "Sun 12/15",
+    "time": "4:25 PM EST",
+    "opponent": "Philadelphia Eagles",
+    "result": "TBD",
+    "score": "TBD",
+    "venue": "Lincoln Financial Field",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 16",
+    "date": "Sat 12/21",
+    "time": "4:30 PM EST",
+    "opponent": "Baltimore Ravens",
+    "result": "TBD",
+    "score": "TBD",
+    "venue": "M&T Bank Stadium",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 17",
+    "date": "Wed 12/25",
+    "time": "1:00 PM EST",
+    "opponent": "Kansas City Chiefs",
+    "result": "TBD",
+    "score": "TBD",
+    "venue": "Acrisure Stadium",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 18",
+    "date": "TBD",
+    "time": "TBD",
+    "opponent": "Cincinnati Bengals",
+    "result": "TBD",
+    "score": "TBD",
+    "venue": "Acrisure Stadium",
+    "preseason": false
+  },
+  {
+    "week": "WEEK 1",
+    "date": "Fri 08/09",
+    "time": "Fri 08/09",
+    "opponent": "Houston Texans",
+    "result": "L",
+    "score": "12 - 20",
+    "venue": "Acrisure Stadium",
+    "preseason": true
+  },
+  {
+    "week": "WEEK 2",
+    "date": "Sat 08/17",
+    "time": "Sat 08/17",
+    "opponent": "Buffalo Bills",
+    "result": "L",
+    "score": "3 - 9",
+    "venue": "Acrisure Stadium",
+    "preseason": true
+  },
+  {
+    "week": "WEEK 3",
+    "date": "Sat 08/24",
+    "time": "Sat 08/24",
+    "opponent": "Detroit Lions",
+    "result": "L",
+    "score": "17 - 24",
+    "venue": "Ford Field",
+    "preseason": true
+  }
+]
