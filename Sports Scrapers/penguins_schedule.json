@@ -1,0 +1,714 @@
+[
+    {
+        "game_date": "2024-09-21",
+        "venue": "KeyBank Center",
+        "home_away": "away",
+        "opponent": "Buffalo Sabres",
+        "winner": "Opponent",
+        "score": "7 - 3"
+    },
+    {
+        "game_date": "2024-09-24",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Buffalo Sabres",
+        "winner": "Opponent",
+        "score": "2 - 3"
+    },
+    {
+        "game_date": "2024-09-29",
+        "venue": "Sudbury Community Arena",
+        "home_away": "away",
+        "opponent": "Ottawa Senators",
+        "winner": "Penguins",
+        "score": "2 - 5"
+    },
+    {
+        "game_date": "2024-09-30",
+        "venue": "Little Caesars Arena",
+        "home_away": "away",
+        "opponent": "Detroit Red Wings",
+        "winner": "Penguins",
+        "score": "1 - 5"
+    },
+    {
+        "game_date": "2024-10-01",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Detroit Red Wings",
+        "winner": "Opponent",
+        "score": "1 - 2"
+    },
+    {
+        "game_date": "2024-10-03",
+        "venue": "Nationwide Arena",
+        "home_away": "away",
+        "opponent": "Columbus Blue Jackets",
+        "winner": "Penguins",
+        "score": "1 - 3"
+    },
+    {
+        "game_date": "2024-10-04",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Columbus Blue Jackets",
+        "winner": "Penguins",
+        "score": "7 - 3"
+    },
+    {
+        "game_date": "2024-10-09",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "New York Rangers",
+        "winner": "Opponent",
+        "score": "0 - 6"
+    },
+    {
+        "game_date": "2024-10-10",
+        "venue": "Little Caesars Arena",
+        "home_away": "away",
+        "opponent": "Detroit Red Wings",
+        "winner": "Penguins",
+        "score": "3 - 6"
+    },
+    {
+        "game_date": "2024-10-12",
+        "venue": "Scotiabank Arena",
+        "home_away": "away",
+        "opponent": "Toronto Maple Leafs",
+        "winner": "Opponent",
+        "score": "4 - 2"
+    },
+    {
+        "game_date": "2024-10-14",
+        "venue": "Centre Bell",
+        "home_away": "away",
+        "opponent": "Montreal Canadiens",
+        "winner": "Penguins",
+        "score": "3 - 6"
+    },
+    {
+        "game_date": "2024-10-16",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Buffalo Sabres",
+        "winner": "Penguins",
+        "score": "6 - 5"
+    },
+    {
+        "game_date": "2024-10-18",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Carolina Hurricanes",
+        "winner": "Opponent",
+        "score": "1 - 4"
+    },
+    {
+        "game_date": "2024-10-20",
+        "venue": "Canada Life Centre",
+        "home_away": "away",
+        "opponent": "Winnipeg Jets",
+        "winner": "Opponent",
+        "score": "6 - 3"
+    },
+    {
+        "game_date": "2024-10-22",
+        "venue": "Scotiabank Saddledome",
+        "home_away": "away",
+        "opponent": "Calgary Flames",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-10-25",
+        "venue": "Rogers Place",
+        "home_away": "away",
+        "opponent": "Edmonton Oilers",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-10-26",
+        "venue": "Rogers Arena",
+        "home_away": "away",
+        "opponent": "Vancouver Canucks",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-10-29",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Minnesota Wild",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-10-31",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Unknown Team",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-11-02",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Montreal Canadiens",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-11-05",
+        "venue": "UBS Arena",
+        "home_away": "away",
+        "opponent": "New York Islanders",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-11-07",
+        "venue": "Lenovo Center",
+        "home_away": "away",
+        "opponent": "Carolina Hurricanes",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-11-08",
+        "venue": "Capital One Arena",
+        "home_away": "away",
+        "opponent": "Washington Capitals",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-11-11",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Dallas Stars",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-11-13",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Detroit Red Wings",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-11-15",
+        "venue": "Nationwide Arena",
+        "home_away": "away",
+        "opponent": "Columbus Blue Jackets",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-11-16",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "San Jose Sharks",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-11-19",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Tampa Bay Lightning",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-11-22",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Winnipeg Jets",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-11-23",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Utah Hockey Club",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-11-27",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Vancouver Canucks",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-11-29",
+        "venue": "TD Garden",
+        "home_away": "away",
+        "opponent": "Boston Bruins",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-11-30",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Calgary Flames",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-12-03",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Florida Panthers",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-12-06",
+        "venue": "Madison Square Garden",
+        "home_away": "away",
+        "opponent": "New York Rangers",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-12-07",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Toronto Maple Leafs",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-12-10",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Colorado Avalanche",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-12-12",
+        "venue": "Centre Bell",
+        "home_away": "away",
+        "opponent": "Montreal Canadiens",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-12-14",
+        "venue": "Canadian Tire Centre",
+        "home_away": "away",
+        "opponent": "Ottawa Senators",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-12-17",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Los Angeles Kings",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-12-19",
+        "venue": "Bridgestone Arena",
+        "home_away": "away",
+        "opponent": "Nashville Predators",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-12-21",
+        "venue": "Prudential Center",
+        "home_away": "away",
+        "opponent": "New Jersey Devils",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-12-23",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Philadelphia Flyers",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-12-28",
+        "venue": "UBS Arena",
+        "home_away": "away",
+        "opponent": "New York Islanders",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-12-29",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "New York Islanders",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2024-12-31",
+        "venue": "Little Caesars Arena",
+        "home_away": "away",
+        "opponent": "Detroit Red Wings",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-01-03",
+        "venue": "Amerant Bank Arena",
+        "home_away": "away",
+        "opponent": "Florida Panthers",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-01-05",
+        "venue": "Lenovo Center",
+        "home_away": "away",
+        "opponent": "Carolina Hurricanes",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-01-07",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Columbus Blue Jackets",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-01-09",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Edmonton Oilers",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-01-11",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Ottawa Senators",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-01-12",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Tampa Bay Lightning",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-01-14",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Seattle Kraken",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-01-17",
+        "venue": "KeyBank Center",
+        "home_away": "away",
+        "opponent": "Buffalo Sabres",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-01-18",
+        "venue": "Capital One Arena",
+        "home_away": "away",
+        "opponent": "Washington Capitals",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-01-20",
+        "venue": "Crypto.com Arena",
+        "home_away": "away",
+        "opponent": "Los Angeles Kings",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-01-23",
+        "venue": "Honda Center",
+        "home_away": "away",
+        "opponent": "Unknown Team",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-01-25",
+        "venue": "Climate Pledge Arena",
+        "home_away": "away",
+        "opponent": "Seattle Kraken",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-01-27",
+        "venue": "SAP Center at San Jose",
+        "home_away": "away",
+        "opponent": "San Jose Sharks",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-01-29",
+        "venue": "Delta Center",
+        "home_away": "away",
+        "opponent": "Utah Hockey Club",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-02-01",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Nashville Predators",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-02-04",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "New Jersey Devils",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-02-07",
+        "venue": "Madison Square Garden",
+        "home_away": "away",
+        "opponent": "New York Rangers",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-02-08",
+        "venue": "Wells Fargo Center",
+        "home_away": "away",
+        "opponent": "Philadelphia Flyers",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-02-22",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Washington Capitals",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-02-23",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "New York Rangers",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-02-25",
+        "venue": "Wells Fargo Center",
+        "home_away": "away",
+        "opponent": "Philadelphia Flyers",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-02-27",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Philadelphia Flyers",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-03-01",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Boston Bruins",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-03-02",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Toronto Maple Leafs",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-03-04",
+        "venue": "Ball Arena",
+        "home_away": "away",
+        "opponent": "Colorado Avalanche",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-03-07",
+        "venue": "T-Mobile Arena",
+        "home_away": "away",
+        "opponent": "Vegas Golden Knights",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-03-09",
+        "venue": "Xcel Energy Center",
+        "home_away": "away",
+        "opponent": "Minnesota Wild",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-03-11",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Vegas Golden Knights",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-03-13",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "St. Louis Blues",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-03-15",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "New Jersey Devils",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-03-18",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "New York Islanders",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-03-21",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Columbus Blue Jackets",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-03-23",
+        "venue": "Amerant Bank Arena",
+        "home_away": "away",
+        "opponent": "Florida Panthers",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-03-25",
+        "venue": "Amalie Arena",
+        "home_away": "away",
+        "opponent": "Tampa Bay Lightning",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-03-27",
+        "venue": "KeyBank Center",
+        "home_away": "away",
+        "opponent": "Buffalo Sabres",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-03-30",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Ottawa Senators",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-04-03",
+        "venue": "Enterprise Center",
+        "home_away": "away",
+        "opponent": "St. Louis Blues",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-04-05",
+        "venue": "American Airlines Center",
+        "home_away": "away",
+        "opponent": "Dallas Stars",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-04-06",
+        "venue": "United Center",
+        "home_away": "away",
+        "opponent": "Chicago Blackhawks",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-04-08",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Chicago Blackhawks",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-04-11",
+        "venue": "Prudential Center",
+        "home_away": "away",
+        "opponent": "New Jersey Devils",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-04-13",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Boston Bruins",
+        "winner": "TBD",
+        "score": "TBD"
+    },
+    {
+        "game_date": "2025-04-17",
+        "venue": "PPG Paints Arena",
+        "home_away": "home",
+        "opponent": "Washington Capitals",
+        "winner": "TBD",
+        "score": "TBD"
+    }
+]
