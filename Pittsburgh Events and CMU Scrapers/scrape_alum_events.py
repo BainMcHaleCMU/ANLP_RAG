@@ -1,0 +1,1 @@
+# I kept getting 403s so since there weren't a ton of events I just did this manually
