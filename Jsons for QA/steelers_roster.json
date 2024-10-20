@@ -1,0 +1,3280 @@
+{
+  "players_roster": [
+    {
+      "name": "Montravius Adams",
+      "number": "57",
+      "position": "DT",
+      "height": "6-4",
+      "weight": "304",
+      "age": "29",
+      "experience": "8",
+      "college": "Auburn",
+      "status": "Active"
+    },
+    {
+      "name": "Kyle Allen",
+      "number": "4",
+      "position": "QB",
+      "height": "6-3",
+      "weight": "210",
+      "age": "28",
+      "experience": "6",
+      "college": "Houston",
+      "status": "Active"
+    },
+    {
+      "name": "Calvin Anderson",
+      "number": "67",
+      "position": "OT",
+      "height": "6-5",
+      "weight": "300",
+      "age": "28",
+      "experience": "6",
+      "college": "Texas",
+      "status": "Active"
+    },
+    {
+      "name": "Spencer Anderson",
+      "number": "74",
+      "position": "OL",
+      "height": "6-5",
+      "weight": "305",
+      "age": "24",
+      "experience": "2",
+      "college": "Maryland",
+      "status": "Active"
+    },
+    {
+      "name": "Calvin Austin III",
+      "number": "19",
+      "position": "WR",
+      "height": "5-9",
+      "weight": "162",
+      "age": "25",
+      "experience": "3",
+      "college": "Memphis",
+      "status": "Active"
+    },
+    {
+      "name": "Keeanu Benton",
+      "number": "95",
+      "position": "DL",
+      "height": "6-4",
+      "weight": "309",
+      "age": "23",
+      "experience": "2",
+      "college": "Wisconsin",
+      "status": "Active"
+    },
+    {
+      "name": "Beanie Bishop Jr.",
+      "number": "31",
+      "position": "CB",
+      "height": "5-9",
+      "weight": "182",
+      "age": "24",
+      "experience": "R",
+      "college": "West Virginia",
+      "status": "Active"
+    },
+    {
+      "name": "Chris Boswell",
+      "number": "9",
+      "position": "K",
+      "height": "6-2",
+      "weight": "185",
+      "age": "33",
+      "experience": "10",
+      "college": "Rice",
+      "status": "Active"
+    },
+    {
+      "name": "Terrell Edmunds",
+      "number": "38",
+      "position": "S",
+      "height": "6-1",
+      "weight": "217",
+      "age": "27",
+      "experience": "7",
+      "college": "Virginia Tech",
+      "status": "Active"
+    },
+    {
+      "name": "DeShon Elliott",
+      "number": "25",
+      "position": "S",
+      "height": "6-0",
+      "weight": "210",
+      "age": "27",
+      "experience": "7",
+      "college": "Texas",
+      "status": "Active"
+    },
+    {
+      "name": "Justin Fields",
+      "number": "2",
+      "position": "QB",
+      "height": "6-3",
+      "weight": "227",
+      "age": "25",
+      "experience": "4",
+      "college": "Ohio State",
+      "status": "Active"
+    },
+    {
+      "name": "Minkah Fitzpatrick",
+      "number": "39",
+      "position": "S",
+      "height": "6-1",
+      "weight": "207",
+      "age": "27",
+      "experience": "7",
+      "college": "Alabama",
+      "status": "Active"
+    },
+    {
+      "name": "Zach Frazier",
+      "number": "54",
+      "position": "C",
+      "height": "6-3",
+      "weight": "310",
+      "age": "23",
+      "experience": "R",
+      "college": "West Virginia",
+      "status": "Active"
+    },
+    {
+      "name": "Pat Freiermuth",
+      "number": "88",
+      "position": "TE",
+      "height": "6-5",
+      "weight": "258",
+      "age": "25",
+      "experience": "4",
+      "college": "Penn State",
+      "status": "Active"
+    },
+    {
+      "name": "Najee Harris",
+      "number": "22",
+      "position": "RB",
+      "height": "6-1",
+      "weight": "242",
+      "age": "26",
+      "experience": "4",
+      "college": "Alabama",
+      "status": "Active"
+    },
+    {
+      "name": "Nick Herbig",
+      "number": "51",
+      "position": "LB",
+      "height": "6-2",
+      "weight": "240",
+      "age": "22",
+      "experience": "2",
+      "college": "Wisconsin",
+      "status": "Active"
+    },
+    {
+      "name": "Cameron Heyward",
+      "number": "97",
+      "position": "DT",
+      "height": "6-5",
+      "weight": "295",
+      "age": "35",
+      "experience": "14",
+      "college": "Ohio State",
+      "status": "Active"
+    },
+    {
+      "name": "Connor Heyward",
+      "number": "83",
+      "position": "TE/FB",
+      "height": "6-0",
+      "weight": "230",
+      "age": "25",
+      "experience": "3",
+      "college": "Michigan State",
+      "status": "Active"
+    },
+    {
+      "name": "Alex Highsmith",
+      "number": "56",
+      "position": "LB",
+      "height": "6-4",
+      "weight": "242",
+      "age": "27",
+      "experience": "5",
+      "college": "Charlotte",
+      "status": "Active"
+    },
+    {
+      "name": "Donte Jackson",
+      "number": "26",
+      "position": "CB",
+      "height": "5-10",
+      "weight": "180",
+      "age": "28",
+      "experience": "6",
+      "college": "LSU",
+      "status": "Active"
+    },
+    {
+      "name": "Van Jefferson",
+      "number": "11",
+      "position": "WR",
+      "height": "6-1",
+      "weight": "200",
+      "age": "28",
+      "experience": "5",
+      "college": "Florida",
+      "status": "Active"
+    },
+    {
+      "name": "Brandon Johnson",
+      "number": "89",
+      "position": "WR",
+      "height": "6-2",
+      "weight": "195",
+      "age": "26",
+      "experience": "3",
+      "college": "UCF",
+      "status": "Active"
+    },
+    {
+      "name": "Broderick Jones",
+      "number": "77",
+      "position": "OT",
+      "height": "6-5",
+      "weight": "311",
+      "age": "23",
+      "experience": "2",
+      "college": "Georgia",
+      "status": "Active"
+    },
+    {
+      "name": "Damontae Kazee",
+      "number": "23",
+      "position": "S",
+      "height": "5-11",
+      "weight": "174",
+      "age": "31",
+      "experience": "8",
+      "college": "San Diego State",
+      "status": "Active"
+    },
+    {
+      "name": "Miles Killebrew",
+      "number": "28",
+      "position": "S",
+      "height": "6-2",
+      "weight": "222",
+      "age": "31",
+      "experience": "9",
+      "college": "Southern Utah State",
+      "status": "Active"
+    },
+    {
+      "name": "Christian Kuntz",
+      "number": "46",
+      "position": "LS",
+      "height": "6-1",
+      "weight": "228",
+      "age": "30",
+      "experience": "4",
+      "college": "Duquesne",
+      "status": "Active"
+    },
+    {
+      "name": "Isaiahh Loudermilk",
+      "number": "92",
+      "position": "DT",
+      "height": "6-7",
+      "weight": "293",
+      "age": "27",
+      "experience": "4",
+      "college": "Wisconsin",
+      "status": "Active"
+    },
+    {
+      "name": "Dean Lowry",
+      "number": "94",
+      "position": "DT",
+      "height": "6-6",
+      "weight": "296",
+      "age": "30",
+      "experience": "9",
+      "college": "Northwestern",
+      "status": "Active"
+    },
+    {
+      "name": "Ryan McCollum",
+      "number": "62",
+      "position": "C",
+      "height": "6-5",
+      "weight": "300",
+      "age": "26",
+      "experience": "2",
+      "college": "Texas A&M",
+      "status": "Active"
+    },
+    {
+      "name": "Mason McCormick",
+      "number": "66",
+      "position": "G",
+      "height": "6-5",
+      "weight": "315",
+      "age": "24",
+      "experience": "R",
+      "college": "South Dakota State",
+      "status": "Active"
+    },
+    {
+      "name": "Scotty Miller",
+      "number": "13",
+      "position": "WR",
+      "height": "5-9",
+      "weight": "174",
+      "age": "27",
+      "experience": "6",
+      "college": "Bowling Green",
+      "status": "Active"
+    },
+    {
+      "name": "Jeremiah Moon",
+      "number": "49",
+      "position": "LB",
+      "height": "6-5",
+      "weight": "247",
+      "age": "26",
+      "experience": "2",
+      "college": "Florida",
+      "status": "Active"
+    },
+    {
+      "name": "Dan Moore Jr.",
+      "number": "65",
+      "position": "OT",
+      "height": "6-5",
+      "weight": "315",
+      "age": "26",
+      "experience": "4",
+      "college": "Texas A&M",
+      "status": "Active"
+    },
+    {
+      "name": "Ade Ogundeji",
+      "number": "48",
+      "position": "LB",
+      "height": "6-4",
+      "weight": "268",
+      "age": "26",
+      "experience": "4",
+      "college": "Notre Dame",
+      "status": "Active"
+    },
+    {
+      "name": "Larry Ogunjobi",
+      "number": "99",
+      "position": "DT",
+      "height": "6-3",
+      "weight": "305",
+      "age": "30",
+      "experience": "8",
+      "college": "Charlotte",
+      "status": "Active"
+    },
+    {
+      "name": "Cordarrelle Patterson",
+      "number": "84",
+      "position": "RB/KR",
+      "height": "6-2",
+      "weight": "220",
+      "age": "33",
+      "experience": "12",
+      "college": "Tennessee",
+      "status": "Active"
+    },
+    {
+      "name": "George Pickens",
+      "number": "14",
+      "position": "WR",
+      "height": "6-3",
+      "weight": "200",
+      "age": "23",
+      "experience": "3",
+      "college": "Georgia",
+      "status": "Active"
+    },
+    {
+      "name": "James Pierre",
+      "number": "42",
+      "position": "CB",
+      "height": "6-2",
+      "weight": "185",
+      "age": "28",
+      "experience": "5",
+      "college": "Florida Atlantic",
+      "status": "Active"
+    },
+    {
+      "name": "Joey Porter Jr.",
+      "number": "24",
+      "position": "CB",
+      "height": "6-2",
+      "weight": "193",
+      "age": "24",
+      "experience": "2",
+      "college": "Penn State",
+      "status": "Active"
+    },
+    {
+      "name": "MyCole Pruitt",
+      "number": "81",
+      "position": "TE",
+      "height": "6-2",
+      "weight": "258",
+      "age": "32",
+      "experience": "9",
+      "college": "Southern Illinois",
+      "status": "Active"
+    },
+    {
+      "name": "Patrick Queen",
+      "number": "6",
+      "position": "LB",
+      "height": "6-0",
+      "weight": "232",
+      "age": "25",
+      "experience": "5",
+      "college": "LSU",
+      "status": "Active"
+    },
+    {
+      "name": "Elandon Roberts",
+      "number": "50",
+      "position": "LB",
+      "height": "6-1",
+      "weight": "238",
+      "age": "30",
+      "experience": "9",
+      "college": "Houston",
+      "status": "Active"
+    },
+    {
+      "name": "Mark Robinson",
+      "number": "93",
+      "position": "LB",
+      "height": "5-11",
+      "weight": "235",
+      "age": "25",
+      "experience": "3",
+      "college": "Mississippi",
+      "status": "Active"
+    },
+    {
+      "name": "Max Scharping",
+      "number": "64",
+      "position": "G",
+      "height": "6-6",
+      "weight": "327",
+      "age": "28",
+      "experience": "6",
+      "college": "Northern Illinois",
+      "status": "Active"
+    },
+    {
+      "name": "Isaac Seumalo",
+      "number": "73",
+      "position": "G",
+      "height": "6-4",
+      "weight": "303",
+      "age": "30",
+      "experience": "9",
+      "college": "Oregon State",
+      "status": "Active"
+    },
+    {
+      "name": "Aaron Shampklin",
+      "number": "33",
+      "position": "RB",
+      "height": "5-10",
+      "weight": "195",
+      "age": "25",
+      "experience": "1",
+      "college": "Harvard",
+      "status": "Active"
+    },
+    {
+      "name": "Corliss Waitman",
+      "number": "8",
+      "position": "P",
+      "height": "6-2",
+      "weight": "210",
+      "age": "29",
+      "experience": "2",
+      "college": "South Alabama",
+      "status": "Active"
+    },
+    {
+      "name": "Jonathan Ward",
+      "number": "35",
+      "position": "RB",
+      "height": "6-0",
+      "weight": "202",
+      "age": "27",
+      "experience": "5",
+      "college": "Central Michigan",
+      "status": "Active"
+    },
+    {
+      "name": "Jaylen Warren",
+      "number": "30",
+      "position": "RB",
+      "height": "5-8",
+      "weight": "215",
+      "age": "25",
+      "experience": "3",
+      "college": "Oklahoma State",
+      "status": "Active"
+    },
+    {
+      "name": "Darnell Washington",
+      "number": "80",
+      "position": "TE",
+      "height": "6-7",
+      "weight": "264",
+      "age": "23",
+      "experience": "2",
+      "college": "Georgia",
+      "status": "Active"
+    },
+    {
+      "name": "T.J. Watt",
+      "number": "90",
+      "position": "LB",
+      "height": "6-4",
+      "weight": "252",
+      "age": "30",
+      "experience": "8",
+      "college": "Wisconsin",
+      "status": "Active"
+    },
+    {
+      "name": "Rodney Williams",
+      "number": "87",
+      "position": "TE",
+      "height": "6-4",
+      "weight": "235",
+      "age": "24",
+      "experience": "2",
+      "college": "Tennessee-Martin",
+      "status": "Active"
+    },
+    {
+      "name": "Payton Wilson",
+      "number": "41",
+      "position": "LB",
+      "height": "6-4",
+      "weight": "242",
+      "age": "24",
+      "experience": "R",
+      "college": "N.C. State",
+      "status": "Active"
+    },
+    {
+      "name": "Roman Wilson",
+      "number": "10",
+      "position": "WR",
+      "height": "5-10",
+      "weight": "186",
+      "age": "23",
+      "experience": "R",
+      "college": "Michigan",
+      "status": "Active"
+    },
+    {
+      "name": "Russell Wilson",
+      "number": "3",
+      "position": "QB",
+      "height": "5-11",
+      "weight": "206",
+      "age": "35",
+      "experience": "13",
+      "college": "Wisconsin",
+      "status": "Active"
+    },
+    {
+      "name": "James Daniels",
+      "number": "78",
+      "position": "OL",
+      "height": "6-4",
+      "weight": "327",
+      "age": "27",
+      "experience": "7",
+      "college": "Iowa",
+      "status": "Reserve/Injured"
+    },
+    {
+      "name": "Troy Fautanu",
+      "number": "76",
+      "position": "OT",
+      "height": "6-4",
+      "weight": "317",
+      "age": "24",
+      "experience": "R",
+      "college": "Washington",
+      "status": "Reserve/Injured"
+    },
+    {
+      "name": "Nate Herbig",
+      "number": "71",
+      "position": "G",
+      "height": "6-4",
+      "weight": "334",
+      "age": "26",
+      "experience": "6",
+      "college": "Stanford",
+      "status": "Reserve/Injured"
+    },
+    {
+      "name": "Cameron Johnston",
+      "number": "5",
+      "position": "P",
+      "height": "5-11",
+      "weight": "194",
+      "age": "32",
+      "experience": "7",
+      "college": "Ohio State",
+      "status": "Reserve/Injured"
+    },
+    {
+      "name": "DeMarvin Leal",
+      "number": "98",
+      "position": "DE",
+      "height": "6-4",
+      "weight": "290",
+      "age": "24",
+      "experience": "3",
+      "college": "Texas A&M",
+      "status": "Reserve/Injured"
+    },
+    {
+      "name": "Logan Lee",
+      "number": "91",
+      "position": "DT",
+      "height": "6-5",
+      "weight": "286",
+      "age": "24",
+      "experience": "R",
+      "college": "Iowa",
+      "status": "Reserve/Injured"
+    },
+    {
+      "name": "Tyler Matakevich",
+      "number": "44",
+      "position": "LB",
+      "height": "6-1",
+      "weight": "235",
+      "age": "31",
+      "experience": "9",
+      "college": "Temple",
+      "status": "Reserve/Injured"
+    },
+    {
+      "name": "David Perales",
+      "number": "33",
+      "position": "LB",
+      "height": "6-3",
+      "weight": "255",
+      "age": "25",
+      "experience": "1",
+      "college": "Fresno State",
+      "status": "Reserve/Injured"
+    },
+    {
+      "name": "Ben Skowronek",
+      "number": "15",
+      "position": "WR",
+      "height": "6-3",
+      "weight": "224",
+      "age": "27",
+      "experience": "4",
+      "college": "Notre Dame",
+      "status": "Reserve/Injured"
+    },
+    {
+      "name": "Cory Trice Jr.",
+      "number": "27",
+      "position": "DB",
+      "height": "6-3",
+      "weight": "206",
+      "age": "24",
+      "experience": "2",
+      "college": "Purdue",
+      "status": "Reserve/Injured"
+    },
+    {
+      "name": "Ryan Watts",
+      "number": "29",
+      "position": "DB",
+      "height": "6-3",
+      "weight": "212",
+      "age": "22",
+      "experience": "R",
+      "college": "Texas",
+      "status": "Reserve/Injured"
+    },
+    {
+      "name": "Dylan Cook",
+      "number": "60",
+      "position": "OT",
+      "height": "6-6",
+      "weight": "305",
+      "age": "26",
+      "experience": "2",
+      "college": "Montana",
+      "status": "Reserve/Injured; Designated for Return"
+    },
+    {
+      "name": "Cole Holcomb",
+      "number": "55",
+      "position": "LB",
+      "height": "6-1",
+      "weight": "240",
+      "age": "28",
+      "experience": "6",
+      "college": "North Carolina",
+      "status": "Reserve/Physically Unable to Perform"
+    },
+    {
+      "name": "Markus Golden",
+      "number": "91",
+      "position": "LB",
+      "height": "6-2",
+      "weight": "260",
+      "age": "N/A",
+      "experience": "9",
+      "college": "Missouri",
+      "status": "Reserve/Retired"
+    },
+    {
+      "name": "Cameron Sutton",
+      "number": "20",
+      "position": "CB",
+      "height": "5-11",
+      "weight": "188",
+      "age": "29",
+      "experience": "8",
+      "college": "Tennessee",
+      "status": "Reserve/Suspended by Commissioner"
+    },
+    {
+      "name": "Anthony Averett",
+      "number": "18",
+      "position": "CB",
+      "height": "5-11",
+      "weight": "185",
+      "age": "29",
+      "experience": "6",
+      "college": "Alabama",
+      "status": "Practice Squad"
+    },
+    {
+      "name": "Thomas Graham Jr.",
+      "number": "37",
+      "position": "DB",
+      "height": "5-10",
+      "weight": "196",
+      "age": "25",
+      "experience": "3",
+      "college": "Oregon",
+      "status": "Practice Squad"
+    },
+    {
+      "name": "Devin Harper",
+      "number": "40",
+      "position": "LB",
+      "height": "6-0",
+      "weight": "234",
+      "age": "26",
+      "experience": "3",
+      "college": "Oklahoma State",
+      "status": "Practice Squad"
+    },
+    {
+      "name": "C.J. Henderson",
+      "number": "33",
+      "position": "CB",
+      "height": "6-1",
+      "weight": "204",
+      "age": "26",
+      "experience": "5",
+      "college": "Florida",
+      "status": "Practice Squad"
+    },
+    {
+      "name": "D'Shawn Jamison",
+      "number": "5",
+      "position": "DB",
+      "height": "5-9",
+      "weight": "186",
+      "age": "25",
+      "experience": "2",
+      "college": "Texas",
+      "status": "Practice Squad"
+    },
+    {
+      "name": "John Leglue",
+      "number": "68",
+      "position": "OL",
+      "height": "6-7",
+      "weight": "310",
+      "age": "28",
+      "experience": "2",
+      "college": "Tulane",
+      "status": "Practice Squad"
+    },
+    {
+      "name": "Eku Leota",
+      "number": "53",
+      "position": "LB",
+      "height": "6-4",
+      "weight": "257",
+      "age": "25",
+      "experience": "2",
+      "college": "Auburn",
+      "status": "Practice Squad"
+    },
+    {
+      "name": "Lance McCutcheon",
+      "number": "82",
+      "position": "WR",
+      "height": "6-3",
+      "weight": "202",
+      "age": "25",
+      "experience": "2",
+      "college": "Montana State",
+      "status": "Practice Squad"
+    },
+    {
+      "name": "Doug Nester",
+      "number": "72",
+      "position": "G",
+      "height": "6-6",
+      "weight": "306",
+      "age": "24",
+      "experience": "R",
+      "college": "West Virginia",
+      "status": "Practice Squad"
+    },
+    {
+      "name": "Ayo Oyelola",
+      "number": "17",
+      "position": "DB",
+      "height": "5-11",
+      "weight": "213",
+      "age": "26",
+      "experience": "1",
+      "college": "",
+      "status": "Practice Squad"
+    },
+    {
+      "name": "La'Mical Perine",
+      "number": "29",
+      "position": "RB",
+      "height": "5-11",
+      "weight": "216",
+      "age": "26",
+      "experience": "4",
+      "college": "Florida",
+      "status": "Practice Squad"
+    },
+    {
+      "name": "Jacob Slade",
+      "number": "79",
+      "position": "DT",
+      "height": "6-4",
+      "weight": "305",
+      "age": "24",
+      "experience": "1",
+      "college": "Michigan State",
+      "status": "Practice Squad"
+    },
+    {
+      "name": "Quez Watkins",
+      "number": "16",
+      "position": "WR",
+      "height": "6-0",
+      "weight": "193",
+      "age": "26",
+      "experience": "5",
+      "college": "Southern Mississippi",
+      "status": "Practice Squad"
+    },
+    {
+      "name": "Craig Young",
+      "number": "45",
+      "position": "LB",
+      "height": "6-4",
+      "weight": "200",
+      "age": "23",
+      "experience": "R",
+      "college": "Kansas",
+      "status": "Practice Squad"
+    }
+  ],
+  "coaches_roster": [
+    {
+      "name": "Mike Tomlin",
+      "title": "Head Coach",
+      "summary": "Mike Tomlin was named the 16th head coach in Pittsburgh Steelers history on January 22, 2007. Hired at the age of 34, Tomlin became only the third head coach hired by the Steelers since 1969.In his 16 seasons as head coach for the Pittsburgh Steelers, Tomlin has accomplished many things that have never been done in the team's storied history. A franchise known for stability at the head coaching position, Tomlin ranks among the League's longest-tenured active head coaches entering the 2023 season.",
+      "profile_link": "https://www.steelers.com/team/coaches-roster/mike-tomlin"
+    },
+    {
+      "name": "Arthur Smith",
+      "title": "Offensive Coordinator",
+      "summary": "Arthur Smith, previous head coach for the Atlanta Falcons for three years (2021-23), is in his rst season as the Steelers o ensive coordinator in 2024. This marks his 16th year in the National Football League coaching ranks.Under Smith's guidance, the Falcons led the NFL in fewest penalties (2022), ranked third in successful play rate on rushing attempts, based on EPA, (2022), nished third in rushing yards/game (2022), ninth in rushing yards/game (2023), 10th in third-down conversion rate (2022), 13th in third-down conversion rate (2023) and 13th in passing yards/attempt (2023).",
+      "profile_link": "https://www.steelers.com/team/coaches-roster/arthur-smith"
+    },
+    {
+      "name": "Teryl Austin",
+      "title": "Defensive Coordinator",
+      "summary": "Teryl Austin is in his second season as the Steelers defensive coordinator. He was promoted after three seasons as the Steelers' senior defensive assistant/secondary coach on February 6, 2022. This marks his 20th year in the National Football League coaching ranks.Under the guidance of Austin, Pittsburgh improved from ranking 29th in opponent yards per game to the stingiest defense in the League over the second half of the 2022 season, allowing an NFL-best 272.9 yards per game following their bye week. The Steelers defense also improved in getting off the field through the last nine weeks, allowing the third-least third-down conversions (36) and tying for the second-most interceptions (12). The team's 20 interceptions on the season tied for the most in the League.",
+      "profile_link": "https://www.steelers.com/team/coaches-roster/teryl-austin"
+    },
+    {
+      "name": "Danny Smith",
+      "title": "Special Teams Coordinator",
+      "summary": "Danny Smith is in his 11th season with the Steelers as the special teams coordinator. Smith was hired on January 31, 2013.Since joining the Steelers in 2015, kicker Chris Boswell is 202-of-234 overall on field goal attempts (86.3%), including 90-of-115 (78.3%) from 40 yards or longer. He ranks fifth in field goal percentage (86.3%) among all NFL kickers with at least 200 field goal attempts in league history. Boswell s 86.3 field goal percent ranks second in Steelers history among kickers with at least 30 field goal attempts, behind only Shaun Suisham (2010-14: 124-141 for 87.9%). He has registered a franchise-record 10 career game-winning field goals (last five min. of the fourth quarter or overtime for a lead change).",
+      "profile_link": "https://www.steelers.com/team/coaches-roster/danny-smith"
+    },
+    {
+      "name": "Phil Matusz",
+      "title": "Head Strength and Conditioning Coach",
+      "summary": "No summary available",
+      "profile_link": "No link"
+    },
+    {
+      "name": "Tom Arth",
+      "title": "Quarterbacks Coach",
+      "summary": "Experience: 2 years",
+      "profile_link": "No link"
+    },
+    {
+      "name": "Zach Azzanni",
+      "title": "Wide Receivers Coach",
+      "summary": "Experience: 7 years",
+      "profile_link": "No link"
+    },
+    {
+      "name": "Eddie Faulkner",
+      "title": "Running Backs Coach",
+      "summary": "Experience: 5 years",
+      "profile_link": "No link"
+    },
+    {
+      "name": "Pat Meyer",
+      "title": "Offensive Line Coach",
+      "summary": "Experience: 11 years",
+      "profile_link": "No link"
+    },
+    {
+      "name": "Alfredo Roberts",
+      "title": "Tight Ends Coach",
+      "summary": "Experience: 20 years",
+      "profile_link": "No link"
+    },
+    {
+      "name": "Isaac Williams",
+      "title": "Assistant Offensive Line Coach",
+      "summary": "Experience: 2 years",
+      "profile_link": "No link"
+    },
+    {
+      "name": "Mike Sullivan",
+      "title": "Senior Offensive Assistant",
+      "summary": "Experience: 20 years",
+      "profile_link": "No link"
+    },
+    {
+      "name": "Mateo Kambui",
+      "title": "Offensive Assistant",
+      "summary": "Experience: 3 years",
+      "profile_link": "No link"
+    },
+    {
+      "name": "Grady Brown",
+      "title": "Secondary Coach",
+      "summary": "Experience: 3 years",
+      "profile_link": "No link"
+    },
+    {
+      "name": "Aaron Curry",
+      "title": "Inside Linebackers Coach",
+      "summary": "Experience: 5 years",
+      "profile_link": "No link"
+    },
+    {
+      "name": "Karl Dunbar",
+      "title": "Defensive Line Coach",
+      "summary": "Experience: 18 years",
+      "profile_link": "No link"
+    },
+    {
+      "name": "Denzel Martin",
+      "title": "Outside Linebackers Coach",
+      "summary": "Experience: 8 years",
+      "profile_link": "No link"
+    },
+    {
+      "name": "Anthony Midget",
+      "title": "Assistant Secondary Coach",
+      "summary": "Experience: 9 years",
+      "profile_link": "No link"
+    },
+    {
+      "name": "Jason Brooks",
+      "title": "Defensive Quality Control Coach",
+      "summary": "Experience: 8 years",
+      "profile_link": "No link"
+    },
+    {
+      "name": "Garrett Giemont",
+      "title": "Senior Conditioning Coordinator",
+      "summary": "Experience: 51 years",
+      "profile_link": "No link"
+    }
+  ],
+  "front_office_roster": [
+    {
+      "section": "ADMINISTRATION",
+      "name": "Arthur J. Rooney II",
+      "role": "President"
+    },
+    {
+      "section": "ADMINISTRATION",
+      "name": "Arthur J. Rooney Jr.",
+      "role": "Vice President"
+    },
+    {
+      "section": "ADMINISTRATION",
+      "name": "Diane Lowe",
+      "role": "Administrative Assistant"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Mike Tomlin",
+      "role": "Head Coach"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Teryl Austin",
+      "role": "Defensive Coordinator"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Arthur Smith",
+      "role": "Offensive Coordinator"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Danny Smith",
+      "role": "Special Teams Coordinator"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Tom Arth",
+      "role": "Quarterbacks Coach"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Zach Azzanni",
+      "role": "Wide Receivers Coach"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Grady Brown",
+      "role": "Secondary Coach"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Aaron Curry",
+      "role": "Inside Linebackers Coach"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Karl Dunbar",
+      "role": "Defensive Line Coach"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Eddie Faulkner",
+      "role": "Running Backs Coach"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Denzel Martin",
+      "role": "Outside Linebackers Coach"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Pat Meyer",
+      "role": "Offensive Line Coach"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Alfredo Roberts",
+      "role": "Tight Ends Coach"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Mike Sullivan",
+      "role": "Senior Offensive Assistant"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Matt Baker",
+      "role": "Offensive Assistant"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Mateo Kambui",
+      "role": "O\ufb00ensive Assistant"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Anthony Midget",
+      "role": "Assistant Secondary Coach"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Isaac Williams",
+      "role": "Assistant Offensive Line Coach"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Jason Brooks",
+      "role": "Defensive Quality Control Coach"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Darrel Young",
+      "role": "Director of Player Development"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Phil Matusz",
+      "role": "Head Strength & Conditioning Coach"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Justus Galac",
+      "role": "Assistant Strength and Conditioning Coach"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Roderick Moore",
+      "role": "Sports Science Coordinator/Strength and Conditioning"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Garrett Giemont",
+      "role": "Senior Conditioning Coordinator"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Chrissy Bulger",
+      "role": "Administrative Assistant"
+    },
+    {
+      "section": "COACHING STAFF",
+      "name": "Mia Daudet",
+      "role": "Administrative Assistant"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Omar Khan",
+      "role": "General Manager"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Dan Rooney Jr.",
+      "role": "Vice President of Player Personnel"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Andy Weidl",
+      "role": "Assistant General Manager"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Sheldon White",
+      "role": "Director of Pro Scouting"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Quentin Harris",
+      "role": "Senior Personnel Assistant"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Mark Sadowski",
+      "role": "Director of Player Scouting"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Max Gruder",
+      "role": "Assistant Director of Player Scouting"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Dan Colbert",
+      "role": "Director of College Scouting"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Kelvin Fisher",
+      "role": "Senior Scouting Assistant"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Mark Bruener",
+      "role": "College Scout"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Chidi Iwuoma",
+      "role": "College Scout"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Chris Watts",
+      "role": "College Scout"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Zach Crockett",
+      "role": "College Scout"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Jarrod Highberger",
+      "role": "College Scout"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Jim Ward",
+      "role": "College Scout"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Jimmy Noel",
+      "role": "College Scout"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Dennis MacInnis",
+      "role": "Pro Scout"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Matt McCreight",
+      "role": "BLESTO Scout"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Casey Weidl",
+      "role": "Scouting Coordinator"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Cole Marcoux",
+      "role": "Director of Football Administration"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Aidan Hennessey-Niland",
+      "role": "Team Operations Coordinator"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Tosin Kazeem",
+      "role": "Football Analytics Coordinator"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Donovan Moore",
+      "role": "Football Analyst"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Maureen Mannion",
+      "role": "Administrative Assistant"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Jake Clancy",
+      "role": "Football Analytics Intern"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Keaton Hunt",
+      "role": "Scouting Intern"
+    },
+    {
+      "section": "FOOTBALL OPERATIONS",
+      "name": "Anthony Rooney",
+      "role": "Scouting Intern"
+    },
+    {
+      "section": "COMMUNICATIONS",
+      "name": "Burt Lauten",
+      "role": "Senior Director of Communications"
+    },
+    {
+      "section": "COMMUNICATIONS",
+      "name": "Michael Bertsch",
+      "role": "Assistant Director of Communications"
+    },
+    {
+      "section": "COMMUNICATIONS",
+      "name": "Angela Tegnelia",
+      "role": "Communications Manager"
+    },
+    {
+      "section": "COMMUNICATIONS",
+      "name": "MacKaiya Cherry",
+      "role": "Communications Coordinator"
+    },
+    {
+      "section": "COMMUNICATIONS",
+      "name": "Spencer Krock",
+      "role": "Communications Intern"
+    },
+    {
+      "section": "FOOTBALL EQUIPMENT",
+      "name": "Adam Regan",
+      "role": "Equipment Manager"
+    },
+    {
+      "section": "FOOTBALL EQUIPMENT",
+      "name": "Patrick Noone",
+      "role": "Field Manager/Assistant Equipment Manager"
+    },
+    {
+      "section": "FOOTBALL EQUIPMENT",
+      "name": "Kyle Powers",
+      "role": "Equipment Assistant"
+    },
+    {
+      "section": "FOOTBALL EQUIPMENT",
+      "name": "Derek Rinehart",
+      "role": "Equipment Assistant"
+    },
+    {
+      "section": "FOOTBALL EQUIPMENT",
+      "name": "Jeremiah Clark",
+      "role": "Equipment Intern"
+    },
+    {
+      "section": "FOOTBALL EQUIPMENT",
+      "name": "Alex Kwong",
+      "role": "Equipment Intern"
+    },
+    {
+      "section": "FOOTBALL VIDEO AND FACILITIES",
+      "name": "Todd Lewis",
+      "role": "Video Logistics Coordinator"
+    },
+    {
+      "section": "FOOTBALL VIDEO AND FACILITIES",
+      "name": "Kory Hartbauer",
+      "role": "Video Operations Coordinator"
+    },
+    {
+      "section": "FOOTBALL VIDEO AND FACILITIES",
+      "name": "Andy Lizanich",
+      "role": "Video Services"
+    },
+    {
+      "section": "FOOTBALL VIDEO AND FACILITIES",
+      "name": "Luke Norwig",
+      "role": "Video Assistant"
+    },
+    {
+      "section": "FOOTBALL VIDEO AND FACILITIES",
+      "name": "Jeff Dankelson",
+      "role": "Football Video Intern"
+    },
+    {
+      "section": "ATHLETIC TRAINING",
+      "name": "Gabe Amponsah",
+      "role": "Head Athletic Trainer"
+    },
+    {
+      "section": "ATHLETIC TRAINING",
+      "name": "Sonia Ruef",
+      "role": "Associate Athletic Trainer"
+    },
+    {
+      "section": "ATHLETIC TRAINING",
+      "name": "Jon Andino",
+      "role": "Associate Athletic Trainer/Rehabilitation Coordinator"
+    },
+    {
+      "section": "ATHLETIC TRAINING",
+      "name": "Daveon Lee",
+      "role": "Associate Athletic Trainer"
+    },
+    {
+      "section": "ATHLETIC TRAINING",
+      "name": "Ramon Ramirez",
+      "role": "Assistant Athletic Trainer"
+    },
+    {
+      "section": "ATHLETIC TRAINING",
+      "name": "Kim Schwabenbauer",
+      "role": "Nutritionist"
+    },
+    {
+      "section": "ATHLETIC TRAINING",
+      "name": "Brad Kluber",
+      "role": "Chiropractor"
+    },
+    {
+      "section": "MEDICAL STAFF",
+      "name": "Dr. James P. Bradley",
+      "role": "Physician, Orthopedic Surgery"
+    },
+    {
+      "section": "MEDICAL STAFF",
+      "name": "Dr. Jeanne Doperak",
+      "role": "Physician, Primary Care Sports Medicine"
+    },
+    {
+      "section": "MEDICAL STAFF",
+      "name": "Dr. Aaron Mares",
+      "role": "Physician, Primary Care Sports Medicine"
+    },
+    {
+      "section": "MEDICAL STAFF",
+      "name": "Dr. Craig Mauro",
+      "role": "Physician, Orthopedic Surgery"
+    },
+    {
+      "section": "MEDICAL STAFF",
+      "name": "Dr. David Okonkwo",
+      "role": "Physician, Neurosurgery"
+    },
+    {
+      "section": "MEDICAL STAFF",
+      "name": "Kayla Martin",
+      "role": "Nutritionist/Dietician"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "David Morehouse",
+      "role": "Executive Vice President for Strategy"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Doug Stuver",
+      "role": "Vice President of Finance"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Jodie Spagnolli",
+      "role": "Controller"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Jenny Shaeffer",
+      "role": "Director of Human Resources"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Matthew Wilson",
+      "role": "Director of Diversity and Inclusion"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Crystal Joyce",
+      "role": "Senior Project Manager"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Klavin Boyd",
+      "role": "Accounting Manager"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Caroline DeFrank",
+      "role": "Senior Accountant"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Mary Beth Gilbert",
+      "role": "Senior Accountant"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Kelly Serafin",
+      "role": "Payroll/Benefits Coordinator"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Jody Lubawski",
+      "role": "Stadium Controller"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Barbara Snyder",
+      "role": "Stadium Payroll Coordinator"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Colleen Kimmel",
+      "role": "Accounts Payable Specialist"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Sam Ferguson",
+      "role": "Business Office Intern"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Shaw Sunder",
+      "role": "Receptionist"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Joyce Sansky",
+      "role": "Receptionist"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "D\u2019Aija Pringle-Scaife",
+      "role": "Administrative Assistant"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Jerry Langan",
+      "role": "Stationary Engineer"
+    },
+    {
+      "section": "BUSINESS OFFICE",
+      "name": "Patrick MacIntyre",
+      "role": "Security Supervisor"
+    },
+    {
+      "section": "INFORMATION TECHNOLOGY",
+      "name": "Scott Phelps",
+      "role": "Vice President of Technology"
+    },
+    {
+      "section": "INFORMATION TECHNOLOGY",
+      "name": "Jon Pugliano",
+      "role": "Director of Technology Systems"
+    },
+    {
+      "section": "INFORMATION TECHNOLOGY",
+      "name": "Craig Pelat",
+      "role": "Director of Network and Security Operations"
+    },
+    {
+      "section": "INFORMATION TECHNOLOGY",
+      "name": "Greg DiFiore",
+      "role": "Information Security Manager"
+    },
+    {
+      "section": "INFORMATION TECHNOLOGY",
+      "name": "Scott Graham",
+      "role": "User Experience Developer"
+    },
+    {
+      "section": "INFORMATION TECHNOLOGY",
+      "name": "Andrew Searight",
+      "role": "Network Support Technician"
+    },
+    {
+      "section": "INFORMATION TECHNOLOGY",
+      "name": "Brandon Slusarek",
+      "role": "Systems Engineer"
+    },
+    {
+      "section": "INFORMATION TECHNOLOGY",
+      "name": "Milo Davis",
+      "role": "Applications Developer"
+    },
+    {
+      "section": "INFORMATION TECHNOLOGY",
+      "name": "Johnathan Dziubek",
+      "role": "Help Desk Technician"
+    },
+    {
+      "section": "COMMUNITY RELATIONS",
+      "name": "Blayre Holmes Davis",
+      "role": "Senior Director of Community Relations"
+    },
+    {
+      "section": "COMMUNITY RELATIONS",
+      "name": "Stacie Lawrence",
+      "role": "Community Relations Assistant"
+    },
+    {
+      "section": "COMMUNITY RELATIONS",
+      "name": "Myah Olson",
+      "role": "Community Relations Coordinator"
+    },
+    {
+      "section": "COMMUNITY RELATIONS",
+      "name": "Ashley Rothermel",
+      "role": "Community Relations Intern"
+    },
+    {
+      "section": "SALES AND MARKETING",
+      "name": "Ryan Huzjak",
+      "role": "Vice President Sales & Marketing"
+    },
+    {
+      "section": "SALES AND MARKETING",
+      "name": "Dan Rooney",
+      "role": "Director of Business Development & Strategy"
+    },
+    {
+      "section": "SALES AND MARKETING",
+      "name": "Bella Petrone",
+      "role": "Sales and Marketing Coordinator"
+    },
+    {
+      "section": "BUSINESS ANALYTICS",
+      "name": "Melanie Harris",
+      "role": "Director of Business Analytics"
+    },
+    {
+      "section": "BUSINESS ANALYTICS",
+      "name": "Bill Adler",
+      "role": "Manager Database Marketing Analytics"
+    },
+    {
+      "section": "BUSINESS ANALYTICS",
+      "name": "Jared Kramer",
+      "role": "Data Analyst"
+    },
+    {
+      "section": "BUSINESS ANALYTICS",
+      "name": "Brandon Wu",
+      "role": "Data Analyst"
+    },
+    {
+      "section": "BUSINESS ANALYTICS",
+      "name": "Zack Palfey",
+      "role": "Digital Analyst"
+    },
+    {
+      "section": "BUSINESS ANALYTICS",
+      "name": "Florence McComas",
+      "role": "Digital Analytics Associate"
+    },
+    {
+      "section": "BUSINESS ANALYTICS",
+      "name": "Chase Scarboro",
+      "role": "Business Analytics Associate"
+    },
+    {
+      "section": "CORPORATE PARTNERSHIPS AND ACTIVATION",
+      "name": "A.J. Poole",
+      "role": "Director of Corporate Partnerships & Activation"
+    },
+    {
+      "section": "CORPORATE PARTNERSHIPS AND ACTIVATION",
+      "name": "Chris Hart",
+      "role": "Corporate Partnerships Manager"
+    },
+    {
+      "section": "CORPORATE PARTNERSHIPS AND ACTIVATION",
+      "name": "Kurt Gingrich",
+      "role": "Corporate Partnerships Manager"
+    },
+    {
+      "section": "CORPORATE PARTNERSHIPS AND ACTIVATION",
+      "name": "Tim Post",
+      "role": "Corporate Partnerships Manager"
+    },
+    {
+      "section": "CORPORATE PARTNERSHIPS AND ACTIVATION",
+      "name": "Amy Siebenkittel",
+      "role": "Senior Manager of Partnership Activation"
+    },
+    {
+      "section": "CORPORATE PARTNERSHIPS AND ACTIVATION",
+      "name": "Rachel Cohen",
+      "role": "Partnership Activation Manager"
+    },
+    {
+      "section": "CORPORATE PARTNERSHIPS AND ACTIVATION",
+      "name": "Peter Obletz",
+      "role": "Partnership Activation Manager"
+    },
+    {
+      "section": "CORPORATE PARTNERSHIPS AND ACTIVATION",
+      "name": "Kate Starr",
+      "role": "Partnership Activation Manager"
+    },
+    {
+      "section": "CORPORATE PARTNERSHIPS AND ACTIVATION",
+      "name": "Marie Zeitler",
+      "role": "Partnership Activation Manager"
+    },
+    {
+      "section": "CORPORATE PARTNERSHIPS AND ACTIVATION",
+      "name": "Jonah Wheeler",
+      "role": "Partnership Activation Coordinator"
+    },
+    {
+      "section": "CORPORATE PARTNERSHIPS AND ACTIVATION",
+      "name": "Amy Regan",
+      "role": "Partnership Administrator"
+    },
+    {
+      "section": "CORPORATE PARTNERSHIPS AND ACTIVATION",
+      "name": "Taylor Sullivan",
+      "role": "Partnership Activation Associate"
+    },
+    {
+      "section": "TICKET OPERATIONS",
+      "name": "Ben Lentz",
+      "role": "Director of Ticket Operations"
+    },
+    {
+      "section": "TICKET OPERATIONS",
+      "name": "Michael Karczewski",
+      "role": "Ticket Operations Manager"
+    },
+    {
+      "section": "TICKET OPERATIONS",
+      "name": "Mark Davidson",
+      "role": "Ticket Operations Manager"
+    },
+    {
+      "section": "TICKET OPERATIONS",
+      "name": "Max Jacinto",
+      "role": "Ticket Operations Coordinator"
+    },
+    {
+      "section": "TICKET SALES AND RETENTION",
+      "name": "Kristen Lewandowski",
+      "role": "Director of Ticket Sales and Retention"
+    },
+    {
+      "section": "TICKET SALES AND RETENTION",
+      "name": "Cole Horan",
+      "role": "Group and Hospitality Sales Manager"
+    },
+    {
+      "section": "TICKET SALES AND RETENTION",
+      "name": "Stephanie Sior",
+      "role": "Senior Manager, Ticket Sales and Retention"
+    },
+    {
+      "section": "TICKET SALES AND RETENTION",
+      "name": "Jared Mero",
+      "role": "Ticket Sales & Retention Account Executive"
+    },
+    {
+      "section": "TICKET SALES AND RETENTION",
+      "name": "Alexa Sorch",
+      "role": "Senior Account Executive, Ticket Sales and Retention"
+    },
+    {
+      "section": "TICKET SALES AND RETENTION",
+      "name": "Erik Stouter",
+      "role": "Ticket Sales & Retention Account Executive"
+    },
+    {
+      "section": "TICKET SALES AND RETENTION",
+      "name": "Allen Farabaugh",
+      "role": "Ticket Sales and Retention Associate"
+    },
+    {
+      "section": "TICKET SALES AND RETENTION",
+      "name": "Alexis Jones-Sawyer",
+      "role": "Ticket Sales and Retention Associate"
+    },
+    {
+      "section": "MARKETING AND EVENTS",
+      "name": "Justin Mitchell",
+      "role": "Director of Marketing"
+    },
+    {
+      "section": "MARKETING AND EVENTS",
+      "name": "Brittany Zeman",
+      "role": "Senior Manager of Campaign Marketing"
+    },
+    {
+      "section": "MARKETING AND EVENTS",
+      "name": "Amber Iuni",
+      "role": "Marketing Campaign Manager"
+    },
+    {
+      "section": "MARKETING AND EVENTS",
+      "name": "Payton Comunale",
+      "role": "Marketing Campaign Coordinator"
+    },
+    {
+      "section": "MARKETING AND EVENTS",
+      "name": "Brandon Artman",
+      "role": "Marketing Event Manager"
+    },
+    {
+      "section": "MARKETING AND EVENTS",
+      "name": "Nicole Bauer",
+      "role": "Growth & Audience Marketing Manager"
+    },
+    {
+      "section": "MARKETING AND EVENTS",
+      "name": "Caitlyn Cossu",
+      "role": "Marketing Event Coordinator"
+    },
+    {
+      "section": "MARKETING AND EVENTS",
+      "name": "SJ Hyman",
+      "role": "Performance Marketing Coordinator"
+    },
+    {
+      "section": "MARKETING AND EVENTS",
+      "name": "Jordyn Kane",
+      "role": "Relationship Marketing Coordinator"
+    },
+    {
+      "section": "MARKETING AND EVENTS",
+      "name": "Christian Plonski",
+      "role": "Direct Marketing Specialist"
+    },
+    {
+      "section": "MARKETING AND EVENTS",
+      "name": "Keaton Engle",
+      "role": "Campaign Marketing Associate"
+    },
+    {
+      "section": "MARKETING AND EVENTS",
+      "name": "Anna Milyak",
+      "role": "Marketing Events Associate"
+    },
+    {
+      "section": "ALUMNI RELATIONS & YOUTH FOOTBALL",
+      "name": "Mike Marchinsky",
+      "role": "Senior Manager of Alumni Relations and Youth Football"
+    },
+    {
+      "section": "ALUMNI RELATIONS & YOUTH FOOTBALL",
+      "name": "Joe Lofton",
+      "role": "Football Development Manager"
+    },
+    {
+      "section": "ALUMNI RELATIONS & YOUTH FOOTBALL",
+      "name": "Kevin Ackerman",
+      "role": "Youth Football Associate"
+    },
+    {
+      "section": "ALUMNI RELATIONS & YOUTH FOOTBALL",
+      "name": "Jeremiah Brosovic",
+      "role": "Alumni Relations Associate"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Reagan Berube",
+      "role": "Sr Director, Content and International Development"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Kyle Kron",
+      "role": "Senior Manager, Digital & Social Content"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Mike Murphy",
+      "role": "Senior Manager of Creative Services"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Jeff Brown",
+      "role": "Senior Manager, Digital Media"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Christopher Burns",
+      "role": "Executive Producer, Live Stadium Events"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Nathan Hogan",
+      "role": "Executive Producer, Video Production"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Stephen Finerty",
+      "role": "Video Production Manager"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Jason Pischke",
+      "role": "Manager, Production & Motion Graphics"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Karl Roser",
+      "role": "Senior Manager of Photography"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Emile Khoury",
+      "role": "Creative Content Manager"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Gerard Schaefer",
+      "role": "Studio Programming Manager"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Alec Balenciaga",
+      "role": "Sr. Producer, Features and Video Content"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Bob Labriola",
+      "role": "Editor Steelers Digest/Contributor Steelers.com"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Teresa Varley",
+      "role": "Assistant Editor Steelers Digest/Contributor Steelers.com"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Jourdan Gottlieb",
+      "role": "Social Media Manager"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "James Dotter",
+      "role": "Social Media Coordinator"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Creg Milko",
+      "role": "Social Media Creative Content Coordinator"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Maria Rodriguez",
+      "role": "Manager, International Content & Strategy"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Jalen Bell",
+      "role": "Social Media Video Associate"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Darren Frasier",
+      "role": "Video Production Associate"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Isabella Gorisek",
+      "role": "Video Production Associate"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Alexis Davis",
+      "role": "Digital Media Associate"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Taylor Hajtol",
+      "role": "Digital Media/App Development Associate"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Jake Harrison",
+      "role": "Graphic Design Associate"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Alec McKisic",
+      "role": "Digital & Social Content Associate"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Alysa Rubin",
+      "role": "Photography Associate"
+    },
+    {
+      "section": "DIGITAL, BROADCAST AND GAMEDAY CONTENT",
+      "name": "Matt Komaroski",
+      "role": "Social Media Associate"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Jim Sacco",
+      "role": "Vice President of Stadium Operations & Management"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Rob Thompson",
+      "role": "Director of Stadium Event Operations"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Bob Jones",
+      "role": "Director of Stadium & Facilities Security"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Joe Simon",
+      "role": "Director of Facility Operations"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "John Fleck",
+      "role": "Assistant Director Facility Operations"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Will Herring",
+      "role": "Director of Suite Sales & Retention"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Travis Baker",
+      "role": "Director of Guest Experiences"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Cecelia Cagni",
+      "role": "Director of Corporate Communications"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Monica Agbalog",
+      "role": "Luxury Suites Manager"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Greg Hoyer",
+      "role": "Senior Manager, Stadium Event Operations"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Tom Goyne",
+      "role": "Sports Turf Operations Manager"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Justin Hunt",
+      "role": "Audio/Visual Manager"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Matt Mittelman",
+      "role": "Audio/Visual Technician"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Cayce Little Pastoor",
+      "role": "Director of Club Events & Operations"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Aaron Getman",
+      "role": "Logistics & Operations Manager"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Mandy Golec",
+      "role": "Senior Manager, Club Events"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Matt Curry",
+      "role": "Stadium Events Production Manager"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Sophia Rizzo",
+      "role": "Club Events Manager"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Erika Siegel",
+      "role": "Guest Services Manager"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Julie Zeravica",
+      "role": "Hall of Honor Museum Manager"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Steve Boekenhauer",
+      "role": "Playing Surface Staff"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Austin Fetzer",
+      "role": "Playing Surface Staff"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "John Fox",
+      "role": "Playing Surface Staff"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Cooper Gulley",
+      "role": "Playing Surface Staff"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Ryan Welker",
+      "role": "Playing Surface Staff"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "John Wodarek",
+      "role": "Event Operations"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Zach Fernandez",
+      "role": "Event Operations Coordinator"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Donovan Breeding",
+      "role": "Facility Operations Intern"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Heidi Edwards",
+      "role": "Project Coordinator"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Matt Scott",
+      "role": "Facility Operations Coordinator"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Lauren Farkas",
+      "role": "Stadium Operations Security Intern"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Alex Goudsmit",
+      "role": "Club Events Intern"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Tim Marra",
+      "role": "Event Operations Intern"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Jack Vick",
+      "role": "Guest Services Intern"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Jessi Sabatini",
+      "role": "Administrative Assistant"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Constance Zelinsky",
+      "role": "Administrative Assistant"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Cookie Carter",
+      "role": "Receptionist"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Jason Maciupa",
+      "role": "Carpenter"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Jeff Miller",
+      "role": "Carpenter"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Dave Bergamasco",
+      "role": "Electrician"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Ron Moye",
+      "role": "Electrician"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Mike Vitanza",
+      "role": "Electrician"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Denny Buchleitner",
+      "role": "HVAC Technician"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Rick Taylor",
+      "role": "HVAC Technician"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Carmine DiNardo",
+      "role": "Maintenance"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Mark Hall",
+      "role": "Maintenance"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Tom Melcher",
+      "role": "Maintenance"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Hunter Sloan",
+      "role": "Maintenance"
+    },
+    {
+      "section": "STADIUM OPERATIONS",
+      "name": "Chuck Beatty",
+      "role": "Plumber"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "John Wolfe",
+      "role": "Vice President of Merchandising & Digital Commerce"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Robb Gedrys",
+      "role": "Director of Stadium & Store Merchandise Operations"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Megan Stepnoski",
+      "role": "Merchandise Manager of Apparel & Footwear"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Lexie Rains",
+      "role": "Assistant Merchandise Manager \u2013 Apparel & Footwear"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Brian Rogiero",
+      "role": "Merchandise Manager of Memorabilia & Hardlines"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Dean Dellamalva",
+      "role": "Assistant Memorabilia Manager"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Stephanie Beck",
+      "role": "Director of Digital Commerce"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Quintin Lovicks",
+      "role": "Lead Web Developer"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Mark Cancilla",
+      "role": "Digital Commerce Graphic Design Coordinator"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Patric Quirion",
+      "role": "Digital Commerce Graphic Design Specialist"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Lucy Baker",
+      "role": "Digital Commerce Product Specialist"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Bryant Bauer",
+      "role": "Digital Commerce Marketing Specialist"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Jim Moon",
+      "role": "Warehouse, Jersey and Headwear Merchandise Manager"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Steve Klacik",
+      "role": "Warehouse Manager"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "George Beck",
+      "role": "Assistant Warehouse Manager"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Stephen Francica",
+      "role": "Assistant Warehouse Manager"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Renae McNabb",
+      "role": "Administration Assistant for Merchandise Operations"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Janice O\u2019Toole",
+      "role": "Administrative Assistant for Merchandise Operations"
+    },
+    {
+      "section": "MERCHANDISING AND DIGITAL COMMERCE",
+      "name": "Luke Robson",
+      "role": "Merchandise Associate"
+    },
+    {
+      "section": "STORE - GROVE CITY PREMIUM OUTLETS",
+      "name": "Susan Kalafut",
+      "role": "Store Manager"
+    },
+    {
+      "section": "STORE - GROVE CITY PREMIUM OUTLETS",
+      "name": "Justin Manny",
+      "role": "Assistant Store Manager"
+    },
+    {
+      "section": "STORE - STADIUM",
+      "name": "Corey Flannagan",
+      "role": "Store Manager"
+    },
+    {
+      "section": "STORE - STADIUM",
+      "name": "Lauren Fisher",
+      "role": "Assistant Store Manager"
+    },
+    {
+      "section": "STORE - STADIUM",
+      "name": "Debbi Gabler",
+      "role": "Assistant Store Manager"
+    },
+    {
+      "section": "STORE - STADIUM",
+      "name": "Linda Rogiero",
+      "role": "Inventory Warehouse Manager"
+    },
+    {
+      "section": "STORE - TANGER OUTLETS",
+      "name": "Courtney Duzyk",
+      "role": "Store Manager"
+    },
+    {
+      "section": "STORE - TANGER OUTLETS",
+      "name": "Lee Bongiorni",
+      "role": "Assistant Store Manager"
+    }
+  ],
+  "depth_chart": {
+    "Offense": [
+      {
+        "position": "WR",
+        "players": [
+          {
+            "name": "Van Jefferson",
+            "url": "https://www.steelers.com/team/players-roster/van-jefferson/",
+            "string": "First"
+          },
+          {
+            "name": "Roman Wilson",
+            "url": "https://www.steelers.com/team/players-roster/roman-wilson/",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "LT",
+        "players": [
+          {
+            "name": "Dan Moore Jr.",
+            "url": "https://www.steelers.com/team/players-roster/dan-moore-jr/",
+            "string": "First"
+          },
+          {
+            "name": "Broderick Jones",
+            "url": "https://www.steelers.com/team/players-roster/broderick-jones/",
+            "string": "Second"
+          },
+          {
+            "name": "Dylan Cook",
+            "url": "https://www.steelers.com/team/players-roster/dylan-cook/",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "LG",
+        "players": [
+          {
+            "name": "Isaac Seumalo",
+            "url": "https://www.steelers.com/team/players-roster/isaac-seumalo/",
+            "string": "First"
+          },
+          {
+            "name": "Spencer Anderson",
+            "url": "https://www.steelers.com/team/players-roster/spencer-anderson/",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "C",
+        "players": [
+          {
+            "name": "Zach Frazier",
+            "url": "https://www.steelers.com/team/players-roster/zach-frazier/",
+            "string": "First"
+          },
+          {
+            "name": "Ryan McCollum",
+            "url": "https://www.steelers.com/team/players-roster/ryan-mccollum/",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "RG",
+        "players": [
+          {
+            "name": "Mason McCormick",
+            "url": "https://www.steelers.com/team/players-roster/mason-mccormick/",
+            "string": "First"
+          },
+          {
+            "name": "Max Scharping",
+            "url": "https://www.steelers.com/team/players-roster/max-scharping/",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "RT",
+        "players": [
+          {
+            "name": "Broderick Jones",
+            "url": "https://www.steelers.com/team/players-roster/broderick-jones/",
+            "string": "First"
+          },
+          {
+            "name": "Calvin Anderson",
+            "url": "https://www.steelers.com/team/players-roster/calvin-anderson/",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "TE",
+        "players": [
+          {
+            "name": "Pat Freiermuth",
+            "url": "https://www.steelers.com/team/players-roster/pat-freiermuth/",
+            "string": "First"
+          },
+          {
+            "name": "Darnell Washington",
+            "url": "https://www.steelers.com/team/players-roster/darnell-washington/",
+            "string": "Second"
+          },
+          {
+            "name": "Connor Heyward",
+            "url": "https://www.steelers.com/team/players-roster/connor-heyward/",
+            "string": "Third"
+          },
+          {
+            "name": "MyCole Pruitt",
+            "url": "https://www.steelers.com/team/players-roster/mycole-pruitt/",
+            "string": "Fourth"
+          },
+          {
+            "name": "Rodney Williams",
+            "url": "https://www.steelers.com/team/players-roster/rodney-williams/",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "RB",
+        "players": [
+          {
+            "name": "Najee Harris",
+            "url": "https://www.steelers.com/team/players-roster/najee-harris/",
+            "string": "First"
+          },
+          {
+            "name": "Jaylen Warren",
+            "url": "https://www.steelers.com/team/players-roster/jaylen-warren/",
+            "string": "Second"
+          },
+          {
+            "name": "Cordarrelle Patterson",
+            "url": "https://www.steelers.com/team/players-roster/cordarrelle-patterson/",
+            "string": "Third"
+          },
+          {
+            "name": "Aaron Shampklin",
+            "url": "https://www.steelers.com/team/players-roster/aaron-shampklin/",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "QB",
+        "players": [
+          {
+            "name": "Russell Wilson",
+            "url": "https://www.steelers.com/team/players-roster/russell-wilson/",
+            "string": "First"
+          },
+          {
+            "name": "Justin Fields",
+            "url": "https://www.steelers.com/team/players-roster/justin-fields/",
+            "string": "Second"
+          },
+          {
+            "name": "Kyle Allen",
+            "url": "https://www.steelers.com/team/players-roster/kyle-allen/",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "WR",
+        "players": [
+          {
+            "name": "Calvin Austin III",
+            "url": "https://www.steelers.com/team/players-roster/calvin-austin-iii/",
+            "string": "First"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "WR",
+        "players": [
+          {
+            "name": "George Pickens",
+            "url": "https://www.steelers.com/team/players-roster/george-pickens/",
+            "string": "First"
+          },
+          {
+            "name": "Scotty Miller",
+            "url": "https://www.steelers.com/team/players-roster/scotty-miller/",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      }
+    ],
+    "Defense": [
+      {
+        "position": "DT",
+        "players": [
+          {
+            "name": "Cameron Heyward",
+            "url": "https://www.steelers.com/team/players-roster/cameron-heyward/",
+            "string": "First"
+          },
+          {
+            "name": "Isaiahh Loudermilk",
+            "url": "https://www.steelers.com/team/players-roster/isaiahh-loudermilk/",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "NT",
+        "players": [
+          {
+            "name": "Keeanu Benton",
+            "url": "https://www.steelers.com/team/players-roster/keeanu-benton/",
+            "string": "First"
+          },
+          {
+            "name": "Montravius Adams",
+            "url": "https://www.steelers.com/team/players-roster/montravius-adams/",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "DE",
+        "players": [
+          {
+            "name": "Larry Ogunjobi",
+            "url": "https://www.steelers.com/team/players-roster/larry-ogunjobi/",
+            "string": "First"
+          },
+          {
+            "name": "Dean Lowry",
+            "url": "https://www.steelers.com/team/players-roster/dean-lowry/",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "LOLB",
+        "players": [
+          {
+            "name": "T.J. Watt",
+            "url": "https://www.steelers.com/team/players-roster/t-j-watt/",
+            "string": "First"
+          },
+          {
+            "name": "Nick Herbig",
+            "url": "https://www.steelers.com/team/players-roster/nick-herbig/",
+            "string": "Second"
+          },
+          {
+            "name": "Jeremiah Moon",
+            "url": "https://www.steelers.com/team/players-roster/jeremiah-moon/",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "LILB",
+        "players": [
+          {
+            "name": "Patrick Queen",
+            "url": "https://www.steelers.com/team/players-roster/patrick-queen/",
+            "string": "First"
+          },
+          {
+            "name": "Payton Wilson",
+            "url": "https://www.steelers.com/team/players-roster/payton-wilson/",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "RILB",
+        "players": [
+          {
+            "name": "Elandon Roberts",
+            "url": "https://www.steelers.com/team/players-roster/elandon-roberts/",
+            "string": "First"
+          },
+          {
+            "name": "Mark Robinson",
+            "url": "https://www.steelers.com/team/players-roster/mark-robinson/",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "ROLB",
+        "players": [
+          {
+            "name": "Alex Highsmith",
+            "url": "https://www.steelers.com/team/players-roster/alex-highsmith/",
+            "string": "First"
+          },
+          {
+            "name": "Nick Herbig",
+            "url": "https://www.steelers.com/team/players-roster/nick-herbig/",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "RCB",
+        "players": [
+          {
+            "name": "Joey Porter Jr.",
+            "url": "https://www.steelers.com/team/players-roster/joey-porter-jr/",
+            "string": "First"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "FS",
+        "players": [
+          {
+            "name": "Minkah Fitzpatrick",
+            "url": "https://www.steelers.com/team/players-roster/minkah-fitzpatrick/",
+            "string": "First"
+          },
+          {
+            "name": "Miles Killebrew",
+            "url": "https://www.steelers.com/team/players-roster/miles-killebrew/",
+            "string": "Second"
+          },
+          {
+            "name": "Terrell Edmunds",
+            "url": "https://www.steelers.com/team/players-roster/terrell-edmunds/",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "SS",
+        "players": [
+          {
+            "name": "DeShon Elliott",
+            "url": "https://www.steelers.com/team/players-roster/deshon-elliott/",
+            "string": "First"
+          },
+          {
+            "name": "Damontae Kazee",
+            "url": "https://www.steelers.com/team/players-roster/damontae-kazee/",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "LCB",
+        "players": [
+          {
+            "name": "Donte Jackson",
+            "url": "https://www.steelers.com/team/players-roster/donte-jackson/",
+            "string": "First"
+          },
+          {
+            "name": "James Pierre",
+            "url": "https://www.steelers.com/team/players-roster/james-pierre/",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "NB",
+        "players": [
+          {
+            "name": "Beanie Bishop Jr.",
+            "url": "https://www.steelers.com/team/players-roster/beanie-bishop-jr/",
+            "string": "First"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      }
+    ],
+    "Special Teams": [
+      {
+        "position": "P",
+        "players": [
+          {
+            "name": "Corliss Waitman",
+            "url": "https://www.steelers.com/team/players-roster/corliss-waitman/",
+            "string": "First"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "K",
+        "players": [
+          {
+            "name": "Chris Boswell",
+            "url": "https://www.steelers.com/team/players-roster/chris-boswell/",
+            "string": "First"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "LS",
+        "players": [
+          {
+            "name": "Christian Kuntz",
+            "url": "https://www.steelers.com/team/players-roster/christian-kuntz/",
+            "string": "First"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "H",
+        "players": [
+          {
+            "name": "Corliss Waitman",
+            "url": "https://www.steelers.com/team/players-roster/corliss-waitman/",
+            "string": "First"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "KR",
+        "players": [
+          {
+            "name": "Cordarrelle Patterson",
+            "url": "https://www.steelers.com/team/players-roster/cordarrelle-patterson/",
+            "string": "First"
+          },
+          {
+            "name": "Jaylen Warren",
+            "url": "https://www.steelers.com/team/players-roster/jaylen-warren/",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      },
+      {
+        "position": "PR",
+        "players": [
+          {
+            "name": "Calvin Austin III",
+            "url": "https://www.steelers.com/team/players-roster/calvin-austin-iii/",
+            "string": "First"
+          },
+          {
+            "name": "Scotty Miller",
+            "url": "https://www.steelers.com/team/players-roster/scotty-miller/",
+            "string": "Second"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Third"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fourth"
+          },
+          {
+            "name": "",
+            "url": "",
+            "string": "Fifth"
+          }
+        ]
+      }
+    ]
+  }
+}

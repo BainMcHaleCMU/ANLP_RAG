@@ -1,0 +1,1136 @@
+{
+    "roster": [
+        {
+            "name": "Braxton Ashcraft",
+            "number": "67",
+            "bat_throw": "L/R",
+            "height": "6'5\"",
+            "weight": "195",
+            "birthday": "10/05/1999"
+        },
+        {
+            "name": "David Bednar",
+            "number": "51",
+            "bat_throw": "L/R",
+            "height": "6'0\"",
+            "weight": "225",
+            "birthday": "10/10/1994"
+        },
+        {
+            "name": "Jalen Beeks",
+            "number": "68",
+            "bat_throw": "L/L",
+            "height": "5'11\"",
+            "weight": "215",
+            "birthday": "07/10/1993"
+        },
+        {
+            "name": "Ryan Borucki",
+            "number": "43",
+            "bat_throw": "L/L",
+            "height": "6'4\"",
+            "weight": "210",
+            "birthday": "03/31/1994"
+        },
+        {
+            "name": "Mike Burrows",
+            "number": "53",
+            "bat_throw": "R/R",
+            "height": "6'1\"",
+            "weight": "190",
+            "birthday": "11/08/1999"
+        },
+        {
+            "name": "Aroldis Chapman",
+            "number": "45",
+            "bat_throw": "L/L",
+            "height": "6'4\"",
+            "weight": "235",
+            "birthday": "02/28/1988"
+        },
+        {
+            "name": "Bailey Falter",
+            "number": "26",
+            "bat_throw": "R/L",
+            "height": "6'4\"",
+            "weight": "205",
+            "birthday": "04/24/1997"
+        },
+        {
+            "name": "Colin Holderman",
+            "number": "35",
+            "bat_throw": "R/R",
+            "height": "6'4\"",
+            "weight": "230",
+            "birthday": "10/08/1995"
+        },
+        {
+            "name": "Jared Jones",
+            "number": "37",
+            "bat_throw": "L/R",
+            "height": "6'1\"",
+            "weight": "190",
+            "birthday": "08/06/2001"
+        },
+        {
+            "name": "Mitch Keller",
+            "number": "23",
+            "bat_throw": "R/R",
+            "height": "6'3\"",
+            "weight": "220",
+            "birthday": "04/04/1996"
+        },
+        {
+            "name": "Isaac Mattson",
+            "number": "64",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "205",
+            "birthday": "07/14/1995"
+        },
+        {
+            "name": "Carmen Mlodzinski",
+            "number": "50",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "220",
+            "birthday": "02/19/1999"
+        },
+        {
+            "name": "Kyle Nicolas",
+            "number": "62",
+            "bat_throw": "R/R",
+            "height": "6'4\"",
+            "weight": "223",
+            "birthday": "02/22/1999"
+        },
+        {
+            "name": "Luis L. Ortiz",
+            "number": "48",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "235",
+            "birthday": "01/27/1999"
+        },
+        {
+            "name": "Dennis Santana",
+            "number": "60",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "190",
+            "birthday": "04/12/1996"
+        },
+        {
+            "name": "Paul Skenes",
+            "number": "30",
+            "bat_throw": "R/R",
+            "height": "6'6\"",
+            "weight": "235",
+            "birthday": "05/29/2002"
+        },
+        {
+            "name": "Joey Wentz",
+            "number": "34",
+            "bat_throw": "L/L",
+            "height": "6'5\"",
+            "weight": "220",
+            "birthday": "10/06/1997"
+        },
+        {
+            "name": "Joey Bart",
+            "number": "14",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "238",
+            "birthday": "12/15/1996"
+        },
+        {
+            "name": "Henry Davis",
+            "number": "32",
+            "bat_throw": "R/R",
+            "height": "6'0\"",
+            "weight": "210",
+            "birthday": "09/21/1999"
+        },
+        {
+            "name": "Jason Delay",
+            "number": "55",
+            "bat_throw": "R/R",
+            "height": "5'11\"",
+            "weight": "190",
+            "birthday": "03/07/1995"
+        },
+        {
+            "name": "Yasmani Grandal",
+            "number": "6",
+            "bat_throw": "S/R",
+            "height": "6'2\"",
+            "weight": "225",
+            "birthday": "11/08/1988"
+        },
+        {
+            "name": "Tsung-Che Cheng",
+            "number": "71",
+            "bat_throw": "L/R",
+            "height": "5'7\"",
+            "weight": "173",
+            "birthday": "07/26/2001"
+        },
+        {
+            "name": "Billy Cook",
+            "number": "28",
+            "bat_throw": "R/R",
+            "height": "5'11\"",
+            "weight": "205",
+            "birthday": "01/07/1999"
+        },
+        {
+            "name": "Oneil Cruz",
+            "number": "15",
+            "bat_throw": "L/R",
+            "height": "6'7\"",
+            "weight": "215",
+            "birthday": "10/04/1998"
+        },
+        {
+            "name": "Nick Gonzales",
+            "number": "39",
+            "bat_throw": "R/R",
+            "height": "5'9\"",
+            "weight": "190",
+            "birthday": "05/27/1999"
+        },
+        {
+            "name": "Ke'Bryan Hayes",
+            "number": "13",
+            "bat_throw": "R/R",
+            "height": "5'11\"",
+            "weight": "195",
+            "birthday": "01/28/1997"
+        },
+        {
+            "name": "Connor Joe",
+            "number": "2",
+            "bat_throw": "R/R",
+            "height": "6'0\"",
+            "weight": "205",
+            "birthday": "08/16/1992"
+        },
+        {
+            "name": "Isiah Kiner-Falefa",
+            "number": "7",
+            "bat_throw": "R/R",
+            "height": "5'11\"",
+            "weight": "190",
+            "birthday": "03/23/1995"
+        },
+        {
+            "name": "Liover Peguero",
+            "number": "31",
+            "bat_throw": "R/R",
+            "height": "6'1\"",
+            "weight": "220",
+            "birthday": "12/31/2000"
+        },
+        {
+            "name": "Jared Triolo",
+            "number": "19",
+            "bat_throw": "R/R",
+            "height": "6'3\"",
+            "weight": "210",
+            "birthday": "02/08/1998"
+        },
+        {
+            "name": "Alika Williams",
+            "number": "25",
+            "bat_throw": "R/R",
+            "height": "6'1\"",
+            "weight": "180",
+            "birthday": "03/12/1999"
+        },
+        {
+            "name": "Nick Yorke",
+            "number": "38",
+            "bat_throw": "R/R",
+            "height": "6'0\"",
+            "weight": "200",
+            "birthday": "04/02/2002"
+        },
+        {
+            "name": "Ji Hwan Bae",
+            "number": "3",
+            "bat_throw": "L/R",
+            "height": "5'11\"",
+            "weight": "185",
+            "birthday": "07/26/1999"
+        },
+        {
+            "name": "Bryan De La Cruz",
+            "number": "41",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "175",
+            "birthday": "12/16/1996"
+        },
+        {
+            "name": "Andrew McCutchen",
+            "number": "22",
+            "bat_throw": "R/R",
+            "height": "5'10\"",
+            "weight": "190",
+            "birthday": "10/10/1986"
+        },
+        {
+            "name": "Joshua Palacios",
+            "number": "77",
+            "bat_throw": "L/R",
+            "height": "6'0\"",
+            "weight": "200",
+            "birthday": "07/30/1995"
+        },
+        {
+            "name": "Bryan Reynolds",
+            "number": "10",
+            "bat_throw": "S/R",
+            "height": "6'2\"",
+            "weight": "205",
+            "birthday": "01/27/1995"
+        },
+        {
+            "name": "Jack Suwinski",
+            "number": "65",
+            "bat_throw": "L/L",
+            "height": "6'2\"",
+            "weight": "215",
+            "birthday": "07/29/1998"
+        }
+    ],
+    "depth_chart": [
+        {
+            "name": "Mitch Keller",
+            "number": "23",
+            "bat_throw": "R/R",
+            "height": "6'3\"",
+            "weight": "220",
+            "birthday": "04/04/1996"
+        },
+        {
+            "name": "Jared Jones",
+            "number": "37",
+            "bat_throw": "L/R",
+            "height": "6'1\"",
+            "weight": "190",
+            "birthday": "08/06/2001"
+        },
+        {
+            "name": "Paul Skenes",
+            "number": "30",
+            "bat_throw": "R/R",
+            "height": "6'6\"",
+            "weight": "235",
+            "birthday": "05/29/2002"
+        },
+        {
+            "name": "Bailey Falter",
+            "number": "26",
+            "bat_throw": "R/L",
+            "height": "6'4\"",
+            "weight": "205",
+            "birthday": "04/24/1997"
+        },
+        {
+            "name": "Marco Gonzales",
+            "number": "27",
+            "bat_throw": "L/L",
+            "height": "6'1\"",
+            "weight": "205",
+            "birthday": "02/16/1992"
+        },
+        {
+            "name": "David Bednar",
+            "number": "51",
+            "bat_throw": "L/R",
+            "height": "6'0\"",
+            "weight": "225",
+            "birthday": "10/10/1994"
+        },
+        {
+            "name": "Luis L. Ortiz",
+            "number": "48",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "235",
+            "birthday": "01/27/1999"
+        },
+        {
+            "name": "Aroldis Chapman",
+            "number": "45",
+            "bat_throw": "L/L",
+            "height": "6'4\"",
+            "weight": "235",
+            "birthday": "02/28/1988"
+        },
+        {
+            "name": "Carmen Mlodzinski",
+            "number": "50",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "220",
+            "birthday": "02/19/1999"
+        },
+        {
+            "name": "Colin Holderman",
+            "number": "35",
+            "bat_throw": "R/R",
+            "height": "6'4\"",
+            "weight": "230",
+            "birthday": "10/08/1995"
+        },
+        {
+            "name": "Kyle Nicolas",
+            "number": "62",
+            "bat_throw": "R/R",
+            "height": "6'4\"",
+            "weight": "223",
+            "birthday": "02/22/1999"
+        },
+        {
+            "name": "Dennis Santana",
+            "number": "60",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "190",
+            "birthday": "04/12/1996"
+        },
+        {
+            "name": "Ben Heller",
+            "number": "61",
+            "bat_throw": "R/R",
+            "height": "6'3\"",
+            "weight": "210",
+            "birthday": "08/05/1991"
+        },
+        {
+            "name": "Ryan Borucki",
+            "number": "43",
+            "bat_throw": "L/L",
+            "height": "6'4\"",
+            "weight": "210",
+            "birthday": "03/31/1994"
+        },
+        {
+            "name": "Jalen Beeks",
+            "number": "68",
+            "bat_throw": "L/L",
+            "height": "5'11\"",
+            "weight": "215",
+            "birthday": "07/10/1993"
+        },
+        {
+            "name": "Daulton Jefferies",
+            "number": "59",
+            "bat_throw": "L/R",
+            "height": "6'0\"",
+            "weight": "182",
+            "birthday": "08/02/1995"
+        },
+        {
+            "name": "Joey Wentz",
+            "number": "34",
+            "bat_throw": "L/L",
+            "height": "6'5\"",
+            "weight": "220",
+            "birthday": "10/06/1997"
+        },
+        {
+            "name": "Hunter Stratton",
+            "number": "63",
+            "bat_throw": "R/R",
+            "height": "6'4\"",
+            "weight": "225",
+            "birthday": "11/17/1996"
+        },
+        {
+            "name": "Isaac Mattson",
+            "number": "64",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "205",
+            "birthday": "07/14/1995"
+        },
+        {
+            "name": "Joey Bart",
+            "number": "14",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "238",
+            "birthday": "12/15/1996"
+        },
+        {
+            "name": "Yasmani Grandal",
+            "number": "6",
+            "bat_throw": "S/R",
+            "height": "6'2\"",
+            "weight": "225",
+            "birthday": "11/08/1988"
+        },
+        {
+            "name": "Henry Davis",
+            "number": "32",
+            "bat_throw": "R/R",
+            "height": "6'0\"",
+            "weight": "210",
+            "birthday": "09/21/1999"
+        },
+        {
+            "name": "Connor Joe",
+            "number": "2",
+            "bat_throw": "R/R",
+            "height": "6'0\"",
+            "weight": "205",
+            "birthday": "08/16/1992"
+        },
+        {
+            "name": "Billy Cook",
+            "number": "28",
+            "bat_throw": "R/R",
+            "height": "5'11\"",
+            "weight": "205",
+            "birthday": "01/07/1999"
+        },
+        {
+            "name": "Jared Triolo",
+            "number": "19",
+            "bat_throw": "R/R",
+            "height": "6'3\"",
+            "weight": "210",
+            "birthday": "02/08/1998"
+        },
+        {
+            "name": "Nick Gonzales",
+            "number": "39",
+            "bat_throw": "R/R",
+            "height": "5'9\"",
+            "weight": "190",
+            "birthday": "05/27/1999"
+        },
+        {
+            "name": "Nick Yorke",
+            "number": "38",
+            "bat_throw": "R/R",
+            "height": "6'0\"",
+            "weight": "200",
+            "birthday": "04/02/2002"
+        },
+        {
+            "name": "Liover Peguero",
+            "number": "31",
+            "bat_throw": "R/R",
+            "height": "6'1\"",
+            "weight": "220",
+            "birthday": "12/31/2000"
+        },
+        {
+            "name": "Ke'Bryan Hayes",
+            "number": "13",
+            "bat_throw": "R/R",
+            "height": "5'11\"",
+            "weight": "195",
+            "birthday": "01/28/1997"
+        },
+        {
+            "name": "Jared Triolo",
+            "number": "19",
+            "bat_throw": "R/R",
+            "height": "6'3\"",
+            "weight": "210",
+            "birthday": "02/08/1998"
+        },
+        {
+            "name": "Isiah Kiner-Falefa",
+            "number": "7",
+            "bat_throw": "R/R",
+            "height": "5'11\"",
+            "weight": "190",
+            "birthday": "03/23/1995"
+        },
+        {
+            "name": "Billy Cook",
+            "number": "28",
+            "bat_throw": "R/R",
+            "height": "5'11\"",
+            "weight": "205",
+            "birthday": "01/07/1999"
+        },
+        {
+            "name": "Nick Gonzales",
+            "number": "39",
+            "bat_throw": "R/R",
+            "height": "5'9\"",
+            "weight": "190",
+            "birthday": "05/27/1999"
+        },
+        {
+            "name": "Isiah Kiner-Falefa",
+            "number": "7",
+            "bat_throw": "R/R",
+            "height": "5'11\"",
+            "weight": "190",
+            "birthday": "03/23/1995"
+        },
+        {
+            "name": "Oneil Cruz",
+            "number": "15",
+            "bat_throw": "L/R",
+            "height": "6'7\"",
+            "weight": "215",
+            "birthday": "10/04/1998"
+        },
+        {
+            "name": "Liover Peguero",
+            "number": "31",
+            "bat_throw": "R/R",
+            "height": "6'1\"",
+            "weight": "220",
+            "birthday": "12/31/2000"
+        },
+        {
+            "name": "Bryan Reynolds",
+            "number": "10",
+            "bat_throw": "S/R",
+            "height": "6'2\"",
+            "weight": "205",
+            "birthday": "01/27/1995"
+        },
+        {
+            "name": "Connor Joe",
+            "number": "2",
+            "bat_throw": "R/R",
+            "height": "6'0\"",
+            "weight": "205",
+            "birthday": "08/16/1992"
+        },
+        {
+            "name": "Bryan De La Cruz",
+            "number": "41",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "175",
+            "birthday": "12/16/1996"
+        },
+        {
+            "name": "Andrew McCutchen",
+            "number": "22",
+            "bat_throw": "R/R",
+            "height": "5'10\"",
+            "weight": "190",
+            "birthday": "10/10/1986"
+        },
+        {
+            "name": "Oneil Cruz",
+            "number": "15",
+            "bat_throw": "L/R",
+            "height": "6'7\"",
+            "weight": "215",
+            "birthday": "10/04/1998"
+        },
+        {
+            "name": "Joshua Palacios",
+            "number": "77",
+            "bat_throw": "L/R",
+            "height": "6'0\"",
+            "weight": "200",
+            "birthday": "07/30/1995"
+        },
+        {
+            "name": "Bryan De La Cruz",
+            "number": "41",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "175",
+            "birthday": "12/16/1996"
+        },
+        {
+            "name": "Connor Joe",
+            "number": "2",
+            "bat_throw": "R/R",
+            "height": "6'0\"",
+            "weight": "205",
+            "birthday": "08/16/1992"
+        },
+        {
+            "name": "Bryan Reynolds",
+            "number": "10",
+            "bat_throw": "S/R",
+            "height": "6'2\"",
+            "weight": "205",
+            "birthday": "01/27/1995"
+        },
+        {
+            "name": "Andrew McCutchen",
+            "number": "22",
+            "bat_throw": "R/R",
+            "height": "5'10\"",
+            "weight": "190",
+            "birthday": "10/10/1986"
+        },
+        {
+            "name": "Joshua Palacios",
+            "number": "77",
+            "bat_throw": "L/R",
+            "height": "6'0\"",
+            "weight": "200",
+            "birthday": "07/30/1995"
+        },
+        {
+            "name": "Andrew McCutchen",
+            "number": "22",
+            "bat_throw": "R/R",
+            "height": "5'10\"",
+            "weight": "190",
+            "birthday": "10/10/1986"
+        },
+        {
+            "name": "Bryan Reynolds",
+            "number": "10",
+            "bat_throw": "S/R",
+            "height": "6'2\"",
+            "weight": "205",
+            "birthday": "01/27/1995"
+        }
+    ],
+    "forty_man": [
+        {
+            "name": "Braxton Ashcraft",
+            "number": "67",
+            "bat_throw": "L/R",
+            "height": "6'5\"",
+            "weight": "195",
+            "birthday": "10/05/1999"
+        },
+        {
+            "name": "David Bednar",
+            "number": "51",
+            "bat_throw": "L/R",
+            "height": "6'0\"",
+            "weight": "225",
+            "birthday": "10/10/1994"
+        },
+        {
+            "name": "Jalen Beeks",
+            "number": "68",
+            "bat_throw": "L/L",
+            "height": "5'11\"",
+            "weight": "215",
+            "birthday": "07/10/1993"
+        },
+        {
+            "name": "Ryan Borucki",
+            "number": "43",
+            "bat_throw": "L/L",
+            "height": "6'4\"",
+            "weight": "210",
+            "birthday": "03/31/1994"
+        },
+        {
+            "name": "Mike Burrows",
+            "number": "53",
+            "bat_throw": "R/R",
+            "height": "6'1\"",
+            "weight": "190",
+            "birthday": "11/08/1999"
+        },
+        {
+            "name": "Aroldis Chapman",
+            "number": "45",
+            "bat_throw": "L/L",
+            "height": "6'4\"",
+            "weight": "235",
+            "birthday": "02/28/1988"
+        },
+        {
+            "name": "Bailey Falter",
+            "number": "26",
+            "bat_throw": "R/L",
+            "height": "6'4\"",
+            "weight": "205",
+            "birthday": "04/24/1997"
+        },
+        {
+            "name": "Marco Gonzales",
+            "number": "27",
+            "bat_throw": "L/L",
+            "height": "6'1\"",
+            "weight": "205",
+            "birthday": "02/16/1992"
+        },
+        {
+            "name": "Ben Heller",
+            "number": "61",
+            "bat_throw": "R/R",
+            "height": "6'3\"",
+            "weight": "210",
+            "birthday": "08/05/1991"
+        },
+        {
+            "name": "Colin Holderman",
+            "number": "35",
+            "bat_throw": "R/R",
+            "height": "6'4\"",
+            "weight": "230",
+            "birthday": "10/08/1995"
+        },
+        {
+            "name": "Daulton Jefferies",
+            "number": "59",
+            "bat_throw": "L/R",
+            "height": "6'0\"",
+            "weight": "182",
+            "birthday": "08/02/1995"
+        },
+        {
+            "name": "Jared Jones",
+            "number": "37",
+            "bat_throw": "L/R",
+            "height": "6'1\"",
+            "weight": "190",
+            "birthday": "08/06/2001"
+        },
+        {
+            "name": "Mitch Keller",
+            "number": "23",
+            "bat_throw": "R/R",
+            "height": "6'3\"",
+            "weight": "220",
+            "birthday": "04/04/1996"
+        },
+        {
+            "name": "Isaac Mattson",
+            "number": "64",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "205",
+            "birthday": "07/14/1995"
+        },
+        {
+            "name": "Carmen Mlodzinski",
+            "number": "50",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "220",
+            "birthday": "02/19/1999"
+        },
+        {
+            "name": "Dauri Moreta",
+            "number": "36",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "185",
+            "birthday": "04/15/1996"
+        },
+        {
+            "name": "Kyle Nicolas",
+            "number": "62",
+            "bat_throw": "R/R",
+            "height": "6'4\"",
+            "weight": "223",
+            "birthday": "02/22/1999"
+        },
+        {
+            "name": "Luis L. Ortiz",
+            "number": "48",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "235",
+            "birthday": "01/27/1999"
+        },
+        {
+            "name": "Johan Oviedo",
+            "number": "24",
+            "bat_throw": "R/R",
+            "height": "6'5\"",
+            "weight": "245",
+            "birthday": "03/02/1998"
+        },
+        {
+            "name": "Dennis Santana",
+            "number": "60",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "190",
+            "birthday": "04/12/1996"
+        },
+        {
+            "name": "Paul Skenes",
+            "number": "30",
+            "bat_throw": "R/R",
+            "height": "6'6\"",
+            "weight": "235",
+            "birthday": "05/29/2002"
+        },
+        {
+            "name": "Hunter Stratton",
+            "number": "63",
+            "bat_throw": "R/R",
+            "height": "6'4\"",
+            "weight": "225",
+            "birthday": "11/17/1996"
+        },
+        {
+            "name": "Joey Wentz",
+            "number": "34",
+            "bat_throw": "L/L",
+            "height": "6'5\"",
+            "weight": "220",
+            "birthday": "10/06/1997"
+        },
+        {
+            "name": "Joey Bart",
+            "number": "14",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "238",
+            "birthday": "12/15/1996"
+        },
+        {
+            "name": "Henry Davis",
+            "number": "32",
+            "bat_throw": "R/R",
+            "height": "6'0\"",
+            "weight": "210",
+            "birthday": "09/21/1999"
+        },
+        {
+            "name": "Jason Delay",
+            "number": "55",
+            "bat_throw": "R/R",
+            "height": "5'11\"",
+            "weight": "190",
+            "birthday": "03/07/1995"
+        },
+        {
+            "name": "Yasmani Grandal",
+            "number": "6",
+            "bat_throw": "S/R",
+            "height": "6'2\"",
+            "weight": "225",
+            "birthday": "11/08/1988"
+        },
+        {
+            "name": "Endy Rodr\u00edguez",
+            "number": "5",
+            "bat_throw": "S/R",
+            "height": "6'0\"",
+            "weight": "200",
+            "birthday": "05/26/2000"
+        },
+        {
+            "name": "Tsung-Che Cheng",
+            "number": "71",
+            "bat_throw": "L/R",
+            "height": "5'7\"",
+            "weight": "173",
+            "birthday": "07/26/2001"
+        },
+        {
+            "name": "Billy Cook",
+            "number": "28",
+            "bat_throw": "R/R",
+            "height": "5'11\"",
+            "weight": "205",
+            "birthday": "01/07/1999"
+        },
+        {
+            "name": "Oneil Cruz",
+            "number": "15",
+            "bat_throw": "L/R",
+            "height": "6'7\"",
+            "weight": "215",
+            "birthday": "10/04/1998"
+        },
+        {
+            "name": "Nick Gonzales",
+            "number": "39",
+            "bat_throw": "R/R",
+            "height": "5'9\"",
+            "weight": "190",
+            "birthday": "05/27/1999"
+        },
+        {
+            "name": "Ke'Bryan Hayes",
+            "number": "13",
+            "bat_throw": "R/R",
+            "height": "5'11\"",
+            "weight": "195",
+            "birthday": "01/28/1997"
+        },
+        {
+            "name": "Connor Joe",
+            "number": "2",
+            "bat_throw": "R/R",
+            "height": "6'0\"",
+            "weight": "205",
+            "birthday": "08/16/1992"
+        },
+        {
+            "name": "Isiah Kiner-Falefa",
+            "number": "7",
+            "bat_throw": "R/R",
+            "height": "5'11\"",
+            "weight": "190",
+            "birthday": "03/23/1995"
+        },
+        {
+            "name": "Liover Peguero",
+            "number": "31",
+            "bat_throw": "R/R",
+            "height": "6'1\"",
+            "weight": "220",
+            "birthday": "12/31/2000"
+        },
+        {
+            "name": "Jared Triolo",
+            "number": "19",
+            "bat_throw": "R/R",
+            "height": "6'3\"",
+            "weight": "210",
+            "birthday": "02/08/1998"
+        },
+        {
+            "name": "Alika Williams",
+            "number": "25",
+            "bat_throw": "R/R",
+            "height": "6'1\"",
+            "weight": "180",
+            "birthday": "03/12/1999"
+        },
+        {
+            "name": "Nick Yorke",
+            "number": "38",
+            "bat_throw": "R/R",
+            "height": "6'0\"",
+            "weight": "200",
+            "birthday": "04/02/2002"
+        },
+        {
+            "name": "Ji Hwan Bae",
+            "number": "3",
+            "bat_throw": "L/R",
+            "height": "5'11\"",
+            "weight": "185",
+            "birthday": "07/26/1999"
+        },
+        {
+            "name": "Bryan De La Cruz",
+            "number": "41",
+            "bat_throw": "R/R",
+            "height": "6'2\"",
+            "weight": "175",
+            "birthday": "12/16/1996"
+        },
+        {
+            "name": "Andrew McCutchen",
+            "number": "22",
+            "bat_throw": "R/R",
+            "height": "5'10\"",
+            "weight": "190",
+            "birthday": "10/10/1986"
+        },
+        {
+            "name": "Joshua Palacios",
+            "number": "77",
+            "bat_throw": "L/R",
+            "height": "6'0\"",
+            "weight": "200",
+            "birthday": "07/30/1995"
+        },
+        {
+            "name": "Bryan Reynolds",
+            "number": "10",
+            "bat_throw": "S/R",
+            "height": "6'2\"",
+            "weight": "205",
+            "birthday": "01/27/1995"
+        },
+        {
+            "name": "Jack Suwinski",
+            "number": "65",
+            "bat_throw": "L/L",
+            "height": "6'2\"",
+            "weight": "215",
+            "birthday": "07/29/1998"
+        }
+    ],
+    "coaches": [
+        {
+            "name": "Derek Shelton17Manager",
+            "number": "17",
+            "position": "Manager"
+        },
+        {
+            "name": "Don Kelly12Bench Coach",
+            "number": "12",
+            "position": "Bench Coach"
+        },
+        {
+            "name": "Christian Marrero88Assistant Hitting Coach",
+            "number": "88",
+            "position": "Assistant Hitting Coach"
+        },
+        {
+            "name": "Oscar Marin47Pitching Coach",
+            "number": "47",
+            "position": "Pitching Coach"
+        },
+        {
+            "name": "Tarrik Brock16First Base Coach",
+            "number": "16",
+            "position": "First Base Coach"
+        },
+        {
+            "name": "Mike Rabelo58Third Base Coach",
+            "number": "58",
+            "position": "Third Base Coach"
+        },
+        {
+            "name": "Mendy L\u00f3pez96Infield Coach",
+            "number": "96",
+            "position": "Infield Coach"
+        },
+        {
+            "name": "Radley Haddad86Game Planning Coach",
+            "number": "86",
+            "position": "Game Planning Coach"
+        },
+        {
+            "name": "Jordan Comadena82Bullpen Catcher",
+            "number": "82",
+            "position": "Bullpen Catcher"
+        },
+        {
+            "name": "Ra\u00fal Hern\u00e1ndez90Bullpen Catcher",
+            "number": "90",
+            "position": "Bullpen Catcher"
+        },
+        {
+            "name": "Stephen Morales95Coach/Interpreter",
+            "number": "95",
+            "position": "Coach/Interpreter"
+        },
+        {
+            "name": "Jonny Tucker98Coach",
+            "number": "98",
+            "position": "Coach"
+        },
+        {
+            "name": "Stephen Morales95Coach/Interpreter",
+            "number": "95",
+            "position": "Coach/Interpreter"
+        },
+        {
+            "name": "Ben CheringtonGeneral Manager",
+            "number": "",
+            "position": "General Manager"
+        }
+    ]
+}

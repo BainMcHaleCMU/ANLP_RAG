@@ -1,0 +1,234 @@
+{
+    "Forwards": [
+      {
+        "Player": "Noel Acciari",
+        "Pos": "C",
+        "Sh": "R",
+        "Ht": "5'11\"",
+        "Wt": "208",
+        "Born": "Dec 1, 1991",
+        "Birthplace": "Johnston, Rhode Island, USA"
+      },
+      {
+        "Player": "Anthony Beauvillier",
+        "Pos": "LW",
+        "Sh": "L",
+        "Ht": "5'11\"",
+        "Wt": "180",
+        "Born": "Jun 8, 1997",
+        "Birthplace": "Sorel-Tracy, Quebec, CAN"
+      },
+      {
+        "Player": "Michael Bunting",
+        "Pos": "LW",
+        "Sh": "L",
+        "Ht": "6'0\"",
+        "Wt": "186",
+        "Born": "Sep 17, 1995",
+        "Birthplace": "Scarborough, Ontario, CAN"
+      },
+      {
+        "Player": "Sidney Crosby",
+        "Pos": "C",
+        "Sh": "L",
+        "Ht": "5'11\"",
+        "Wt": "200",
+        "Born": "Aug 7, 1987",
+        "Birthplace": "Cole Harbour, Nova Scotia, CAN"
+      },
+      {
+        "Player": "Lars Eller",
+        "Pos": "C",
+        "Sh": "L",
+        "Ht": "6'2\"",
+        "Wt": "208",
+        "Born": "May 8, 1989",
+        "Birthplace": "Rodovre, DNK"
+      },
+      {
+        "Player": "Cody Glass",
+        "Pos": "C",
+        "Sh": "R",
+        "Ht": "6'3\"",
+        "Wt": "207",
+        "Born": "Apr 1, 1999",
+        "Birthplace": "Winnipeg, Manitoba, CAN"
+      },
+      {
+        "Player": "Kevin Hayes",
+        "Pos": "RW",
+        "Sh": "L",
+        "Ht": "6'5\"",
+        "Wt": "215",
+        "Born": "May 8, 1992",
+        "Birthplace": "Dorchester, Massachusetts, USA"
+      },
+      {
+        "Player": "Blake Lizotte",
+        "Pos": "C",
+        "Sh": "L",
+        "Ht": "5'9\"",
+        "Wt": "172",
+        "Born": "Dec 13, 1997",
+        "Birthplace": "Lindstrom, Minnesota, USA"
+      },
+      {
+        "Player": "Evgeni Malkin",
+        "Pos": "C",
+        "Sh": "L",
+        "Ht": "6'3\"",
+        "Wt": "195",
+        "Born": "Jul 31, 1986",
+        "Birthplace": "Magnitogorsk, RUS"
+      },
+      {
+        "Player": "Matt Nieto",
+        "Pos": "LW",
+        "Sh": "L",
+        "Ht": "5'11\"",
+        "Wt": "185",
+        "Born": "Nov 5, 1992",
+        "Birthplace": "Long Beach, California, USA"
+      },
+      {
+        "Player": "Drew O'Connor",
+        "Pos": "LW",
+        "Sh": "L",
+        "Ht": "6'4\"",
+        "Wt": "209",
+        "Born": "Jun 9, 1998",
+        "Birthplace": "Chatham, New Jersey, USA"
+      },
+      {
+        "Player": "Jesse Puljujarvi",
+        "Pos": "RW",
+        "Sh": "R",
+        "Ht": "6'4\"",
+        "Wt": "215",
+        "Born": "May 7, 1998",
+        "Birthplace": "Alvkarleby, SWE"
+      },
+      {
+        "Player": "Valtteri Puustinen",
+        "Pos": "RW",
+        "Sh": "R",
+        "Ht": "5'10\"",
+        "Wt": "182",
+        "Born": "Jun 4, 1999",
+        "Birthplace": "Kuopio, FIN"
+      },
+      {
+        "Player": "Rickard Rakell",
+        "Pos": "RW",
+        "Sh": "R",
+        "Ht": "6'1\"",
+        "Wt": "195",
+        "Born": "May 5, 1993",
+        "Birthplace": "Sundbyberg, SWE"
+      },
+      {
+        "Player": "Bryan Rust",
+        "Pos": "RW",
+        "Sh": "R",
+        "Ht": "5'11\"",
+        "Wt": "192",
+        "Born": "May 11, 1992",
+        "Birthplace": "Pontiac, Michigan, USA"
+      }
+    ],
+    "Defensemen": [
+      {
+        "Player": "Ryan Graves",
+        "Pos": "D",
+        "Sh": "L",
+        "Ht": "6'5\"",
+        "Wt": "222",
+        "Born": "May 21, 1995",
+        "Birthplace": "Yarmouth, Nova Scotia, CAN"
+      },
+      {
+        "Player": "Matt Grzelcyk",
+        "Pos": "D",
+        "Sh": "L",
+        "Ht": "5'10\"",
+        "Wt": "180",
+        "Born": "Jan 5, 1994",
+        "Birthplace": "Charlestown, Massachusetts, USA"
+      },
+      {
+        "Player": "Erik Karlsson",
+        "Pos": "D",
+        "Sh": "R",
+        "Ht": "6'0\"",
+        "Wt": "190",
+        "Born": "May 31, 1990",
+        "Birthplace": "Landsbro, SWE"
+      },
+      {
+        "Player": "Kris Letang",
+        "Pos": "D",
+        "Sh": "R",
+        "Ht": "6'0\"",
+        "Wt": "201",
+        "Born": "Apr 24, 1987",
+        "Birthplace": "Montreal, Quebec, CAN"
+      },
+      {
+        "Player": "Marcus Pettersson",
+        "Pos": "D",
+        "Sh": "L",
+        "Ht": "6'3\"",
+        "Wt": "177",
+        "Born": "May 8, 1996",
+        "Birthplace": "Skelleftea, SWE"
+      },
+      {
+        "Player": "Ryan Shea",
+        "Pos": "D",
+        "Sh": "L",
+        "Ht": "6'1\"",
+        "Wt": "196",
+        "Born": "Feb 11, 1997",
+        "Birthplace": "Milton, Massachusetts, USA"
+      },
+      {
+        "Player": "Jack St. Ivany",
+        "Pos": "D",
+        "Sh": "R",
+        "Ht": "6'3\"",
+        "Wt": "205",
+        "Born": "Jul 22, 1999",
+        "Birthplace": "Manhattan Beach, California, USA"
+      }
+    ],
+    "Goalies": [
+      {
+        "Player": "Joel Blomqvist",
+        "Pos": "G",
+        "Ca": "L",
+        "Ht": "6'2\"",
+        "Wt": "200",
+        "Born": "Jan 10, 2002",
+        "Birthplace": "Bollnas, SWE"
+      },
+      {
+        "Player": "Tristan Jarry",
+        "Pos": "G",
+        "Ca": "L",
+        "Ht": "6'2\"",
+        "Wt": "195",
+        "Born": "Apr 29, 1995",
+        "Birthplace": "Surrey, British Columbia, CAN"
+      },
+      {
+        "Player": "Alex Nedeljkovic",
+        "Pos": "G",
+        "Ca": "L",
+        "Ht": "6'0\"",
+        "Wt": "203",
+        "Born": "Jan 7, 1996",
+        "Birthplace": "Parma, Ohio, USA"
+      }
+    ]
+  }
+  
