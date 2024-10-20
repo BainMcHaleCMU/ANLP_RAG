@@ -1,0 +1,107 @@
+[
+  {
+    "event": "HI - CMU Meetup: Rock Climbing",
+    "date_time": "October 27, 2024, 4:00pm - 6:00pm HST",
+    "location": "HiClimb Honolulu, 825 Ilaniwai St, Honolulu, Hawaii 96813",
+    "description": "Come join your fellow Tartans at HiClimb, Honolulu's Rock Climbing Gym, part-owned by alumna, Amanda So DC'15. All levels welcome, from newbie's to experienced climbers. If you don't feel like climbing, feel free to come watch the fun!",
+    "price": "$10.00 per person"
+  },
+  {
+    "event": "NYC - Fall Happy Hour",
+    "date_time": "November 2, 2024, 6:00pm - 8:00pm EDT",
+    "location": "Torch & Crown Brewery, 12 Vandam St., New York City, New York 10013",
+    "description": "Let's kick off the fall season in style with a fun happy hour gathering with your fellow Tartans! 🍻 Come catch up, network, and enjoy some great company. Hope to see you all there!",
+    "price": "Free"
+  },
+  {
+    "event": "Drama Cabaret - LIGHT: The Songbook of Tom Kitt",
+    "date_time": "November 3, 2024, 7:00pm EST",
+    "location": "Virtual",
+    "description": "Join us for an unforgettable evening of song featuring Carnegie Mellon School of Drama's Music Theater Ensemble, Class of 2026 performing the songbook of Pulitzer, Tony, Emmy, and Grammy Award-winning composer Tom Kitt. This special fundraising event supports the School of Drama's Showcase & Expo fund, which sends each year's graduating class to New York and Los Angeles to launch their careers.",
+    "price": "$25.00 per person"
+  },
+  {
+    "event": "ATL - Alumni Event Planning Meeting",
+    "date_time": "November 6, 2024, 6:30pm - 8:30pm EST",
+    "location": "Mellow Mushroom - Brookhaven, 4058 Peachtree Rd NE, Atlanta, Georgia 30319",
+    "description": "Join us in planning the first few months of 2025 to help Alumni have fun and build our network. Bring your ideas or apply organizational skills. Events on the drawing board include: Escape room, Film studio tour, Top Golf and/or Putt Putt, Bowling, Alumni Panel on topics like Cyber Security or Analytics.",
+    "price": "Free"
+  },
+  {
+    "event": "PIT - Saint Anthony Chapel Tour",
+    "date_time": "November 9, 2024, 1:00pm - 3:00pm EST",
+    "location": "Saint Anthony Chapel, 1700 Harpster Street, Pittsburgh, Pennsylvania 15212",
+    "description": "Saint Anthony Chapel, part of the Shrines of Pittsburgh, is home to the largest Catholic repository of relics outside of the Vatican. The relics housed in the chapel currently number over 5,000 and are housed in over 800 relic cases (reliquaries) of various sizes. Furthermore, there are 525 authentic certificates which give the date, name and seal of a Bishop or postulator of the saints' causes, attesting to the authenticity of these relics. Join us for a docent-led tour of the chapel, followed by a beer or three at nearby Penn Brewery. We encourage carpooling to the Troy Hill neighborhood, and parking midway between the two destinations. It's a 20-minute 'mostly flat' (Google) walk from the chapel to the brewery, or a 3-minute car ride.",
+    "price": "Free"
+  },
+  {
+    "event": "ATL - Hands-on Workshop to Build Your LinkedIn Brand",
+    "date_time": "November 9, 2024, 2:00pm - 4:00pm EST",
+    "location": "East Cobb Library, 4880 Lower Roswell Rd Suite 510-B, Marietta, Georgia 30068",
+    "description": "CMU alum Palak Shah (DC 1999) is an executive and technology recruiter with 17,000+ followers and connections on LinkedIn. Palak will lead a hands-on workshop on how to build your brand on LinkedIn. Understanding the importance of 'Above the Fold' and how to reel in recruiters and employers. Ramping up your Profile photo. Elevating your Banner, Headline, About and Featured sections to tell YOUR story. Hands-on Toolkits to build your own professional story.",
+    "price": "Free"
+  },
+  {
+    "event": "PGH - November Network Planning Meeting",
+    "date_time": "November 11, 2024, 6:00pm EST",
+    "location": "Virtual",
+    "description": "The Pittsburgh Network's board of volunteers meets monthly to discuss events and opportunities to connect alumni, students, parents and friends with the university and each other. Everyone is welcome to come meet the board and join in the discussion! Past and upcoming events are discussed during the first half of the meeting, with general meeting items discussed the second half.",
+    "price": "Free"
+  },
+  {
+    "event": "ATL - Scotch Tasting in Decatur",
+    "date_time": "November 11, 2024, 7:00pm - 8:30pm EST",
+    "location": "O'Sullivans Pub, 111 Sycamore St, Decatur, Georgia 30030",
+    "description": "Join us on Monday, November 11, for a memorable Scotch tasting event to celebrate Andrew Carnegie's birthday! Gather with fellow Tartans at O'Sullivans Pub in Decatur Square for an evening of exploring exquisite Scotch whiskies from Scotland and beyond.",
+    "price": "Varies"
+  },
+  {
+    "event": "NYC - Art Collecting With Confidence",
+    "date_time": "November 12, 2024, 6:00pm - 8:00pm EST",
+    "location": "Richard Beavers Gallery, SOHO, 14 Wooster Street, New York, New York 10013",
+    "description": "Have you thought about collecting art but don't know where to start? Contrary to its prevailing perception of elitism, art collecting can be an incredibly fulfilling pursuit with room for people from all backgrounds.",
+    "price": "$5.00 per person"
+  },
+  {
+    "event": "SD - Wine Tasting Social",
+    "date_time": "November 13, 2024, 6:00pm - 7:30pm PST",
+    "location": "Bird Rock Fine Wine, 5687 La Jolla Blvd, La Jolla, California 92037",
+    "description": "Join us at Bird Rock Wine in La Jolla for an exclusive private wine tasting and engaging conversation! Mingle with fellow tartans in a relaxed setting as the owner presents six unique wines, sharing insights and answering all your wine-related questions.",
+    "price": "$30.00 per person"
+  },
+  {
+    "event": "HLAA - Coffee with Glenn & Jonathan - Thanksgiving Edition",
+    "date_time": "November 16, 2024, 10:00am - 12:00pm EST",
+    "location": "Devocion, 25 E 20th St, New York, New York 10003",
+    "description": "Join us for our Thanksgiving edition of Coffee with Glenn and Jonathan Saturday Nov. 16 at Devoción on 20th Between Broadway and Park. Nothing fancy, just two Tartans drinking pumpkin spiced something, and building community. Wear your CMU gear and join us to meet fellow NY HLAA Alums.",
+    "price": "Free"
+  },
+  {
+    "event": "CHI - West Burbs Social Lunch at Gia Mia Elmhurst",
+    "date_time": "December 13, 2024, 12:00pm CST",
+    "location": "Gia Mia Pizza Bar, 116 E. Schiller St, Elmhurst, Illinois 60126",
+    "description": "Join your fellow Tartans for a casual networking lunch at Gia Mia Pizza Bar in Elmhurst. We will gather at noon on Friday, Dec 13, to get out of the office and enjoy a casual meal together.",
+    "price": "Free"
+  },
+  {
+    "event": "ATL - Vienna Boys Choir: Christmas in Vienna",
+    "date_time": "December 19, 2024, 6:30pm - 10:00pm EST",
+    "location": "Byers Theatre at Sandy Springs Performing Arts Center, 1 Galambos Way, Sandy Springs, Georgia 30328",
+    "description": "Join fellow Tartans in experiencing the Vienna Boys Choir at the Sandy Springs Performing Arts Center on their multi-city U.S. tour during the holiday season. Enjoy the enchanting harmonies and rich history of the Vienna Boys Choir, one of the world's most renowned and oldest chorus groups.",
+    "price": "Free"
+  },
+  {
+    "event": "HI - Network Holiday Party",
+    "date_time": "December 22, 2024, 4:00pm - 8:00pm HST",
+    "location": "Kaka'ako Condo, (Location to be announced after registration), Honolulu, Hawaii",
+    "description": "Celebrate the Holiday Season with your fellow Tartans! A family with a current student at CMU graciously agreed to host us at their condo event space in Kaka'ako. Bring swim suits, enjoy the pool, and share your stories from 2024 and plans for 2025. Event registrants will receive the address and instructions to access the private space prior to the event.",
+    "price": "$5.00 per person"
+  },
+  {
+    "event": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+    "date_time": "Ongoing",
+    "location": "Hunt Library, Fourth Floor, 5000 Forbes Avenue, Pittsburgh, PA 15213-3890",
+    "description": "Settlement, industrialization, urbanization, and redevelopment have each left a profound mark on the region’s built environment. The architecture bears testimony to the forces that shaped it, but buildings can only tell part of the stories. The histories of their conception, design, and construction are contained in the drawings and other documents shared between clients, architects, and contractors. These architectural records document an irretrievable past (for buildings demolished or left unbuilt), facilitate the preservation and reuse of extant buildings, and inform our understanding of our surroundings.",
+    "price": "Free"
+  }
+]
