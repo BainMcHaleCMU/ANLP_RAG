@@ -1,9 +1,26 @@
 from sklearn.metrics import f1_score
 import numpy as np
+import re
+
+# Function to normalize text by removing articles and punctuation and lowercasing
+def normalize_answer(s):
+    def remove_articles(text):
+        return re.sub(r'\b(a|an|the)\b', ' ', text)
+    
+    def remove_punctuation(text):
+        return re.sub(r'[^\w\s]', '', text)
+    
+    def lowercase(text):
+        return text.lower()
+    
+    return remove_articles(remove_punctuation(lowercase(s))).strip()
+
 
 # Function to calculate F1 score for tokenized answers
 def compute_f1_score_for_answers(answer1, answer2):
     # Tokenize the answers
+    answer1 = normalize_answer(answer1)
+    answer2 = normalize_answer(answer2)
     answer1_tokens = answer1.split()
     answer2_tokens = answer2.split()
     
