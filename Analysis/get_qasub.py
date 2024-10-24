@@ -2,7 +2,7 @@ import random
 
 # Function to randomly select 20% of lines
 def get_random_subset(file_path, percentage=0.2):
-    with open(file_path, 'r') as f:
+    with open(file_path, 'r', encoding='utf-8') as f:  # Specify encoding
         lines = f.readlines()
 
     # Total number of lines
@@ -21,7 +21,7 @@ def get_random_subset(file_path, percentage=0.2):
 
 # Function to get corresponding answers for selected lines
 def get_reference_answers(reference_file_path, selected_indices):
-    with open(reference_file_path, 'r') as f:
+    with open(reference_file_path, 'r', encoding='utf-8') as f:  # Specify encoding
         answers = f.readlines()
     
     # Get the answers corresponding to the selected indices
@@ -32,7 +32,7 @@ def get_reference_answers(reference_file_path, selected_indices):
 # Paths to the input files
 questions_file = 'questions.txt'
 reference_answers_file = 'reference_answers.txt'
-percent = .2
+percent = .5
 
 # Get a random subset of questions and corresponding indices
 subset_questions, selected_indices = get_random_subset(questions_file, percentage=percent)
@@ -41,10 +41,10 @@ subset_questions, selected_indices = get_random_subset(questions_file, percentag
 subset_answers = get_reference_answers(reference_answers_file, selected_indices)
 
 # Save the selected questions and corresponding answers
-with open('sampled_questions.txt', 'w') as q_out:
+with open('sampled_questions.txt', 'w', encoding='utf-8') as q_out:  # Specify encoding
     q_out.write('\n'.join(subset_questions))
 
-with open('sampled_reference_answers.txt', 'w') as a_out:
+with open('sampled_reference_answers.txt', 'w', encoding='utf-8') as a_out:  # Specify encoding
     a_out.write('\n'.join(subset_answers))
 
 # Display the selected indices and confirm the script ran successfully

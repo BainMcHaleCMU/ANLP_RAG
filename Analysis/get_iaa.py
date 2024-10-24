@@ -35,13 +35,13 @@ def compute_f1_score_for_answers(answer1, answer2):
     return f1_score(vector1, vector2)
 
 # Reading answers from files
-with open('answer1.txt', 'r') as f:
+with open('sampled_reference_answers.txt', 'r', encoding='utf-8') as f:
     answers1 = f.readlines()
 
-with open('answer2.txt', 'r') as f:
+with open('sampled_other_reference_answers.txt', 'r', encoding='utf-8') as f:
     answers2 = f.readlines()
 
-with open('sampled_questions.txt', 'r') as f:
+with open('sampled_questions.txt', 'r', encoding='utf-8') as f:
     questions = f.readlines()
 
 # Compute F1 score for each pair of answers
