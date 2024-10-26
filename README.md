@@ -267,3 +267,9 @@ This assignment was based on the the [Spring 2024 version of this assignment](ht
 [^4]: Grading policy: http://www.phontron.com/class/anlp2024/course_details/#grading
 
 [^5]: In general, if your system is generating answers that are relevant to the question, it would be considered non-trivial. This could be achieved with a basic RAG system.
+
+
+To run our RAG system, choose one of the three notebooks we have in the RAG System folder within a Google Collab instance on a T4 or better GPU. Fast_RAG.ipynb is where each of the three system outputs originate from (with differing hyperparameters listed in the report). Running the pip install in the first cell is sufficient for creating the necessary environment. If using the Ministral-8B-Instruct-2410 model as we are, you need to provide a personal access token with from your HuggingFace account. This will only work if you have accepted the licensing agreement on this page: https://huggingface.co/mistralai/Ministral-8B-Instruct-2410
+For now in the code we have included a personal access token that will be disabled by the time we submit this assignment, so you'll know where to put it (should be three places). 
+
+To run any other code, just simpley have requests, pandas, BeautifulSoup, and PDFReader installed in your environment and you shouldn't have any issues.
