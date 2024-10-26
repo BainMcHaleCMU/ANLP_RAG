@@ -16,3 +16,9 @@
 - Annotated train questions/answers instances 121-227
 
 ## Amogh (agyanesh):
+
+- Annotated test question/answers instances 58-82
+- Annotated train questions/answers instances 228-312
+- Wrote initial data collecting scripts for Music
+- Wrote initial data collecting scripts for Culture
+- Final Scripts for events and merged data
