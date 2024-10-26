@@ -12,10 +12,10 @@ def filter_date_questions():
         return
 
     # Prepare output files
-    with open("date_questions.txt", "w", encoding="utf-8") as dq_file, open("date_answers.txt", "w", encoding="utf-8") as da_file:
+    with open("what_questions_test.txt", "w", encoding="utf-8") as dq_file, open("what_answers_test.txt", "w", encoding="utf-8") as da_file:
         # Filter questions that start with "What date" or "When"
         for question, answer in zip(questions, answers):
-            if question.strip().lower().startswith(("what date", "when")):
+            if question.strip().lower().startswith(("what")):
                 dq_file.write(question)
                 da_file.write(answer)
 
